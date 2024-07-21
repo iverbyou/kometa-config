@@ -1,0 +1,429 @@
+metadata:
+  Sailor Moon (US):
+    title: Sailor Moon (US)
+    year: 1995
+    summary: (DiC/Cloverway Dub) Serena Tsukino is a clumsy but kindhearted teenage girl who transforms into the powerful guardian of love and justice, Sailor Moon. With her team of Sailor Scouts and allies, she must fight to protect the universe from forces of evil.
+    seasons:
+      1:
+        title: Sailor Moon
+        alt_title: Sailor Moon Classic
+        summary:  >-
+              Serena is a cheerful 14-year-old schoolgirl who often finds herself in unwanted trouble. One day, she saves a talking cat named Luna from some mean kids, and her life is changed forever. Luna gives Serena a magic brooch that transforms her into Sailor Moon, defender of love and justice! Now Serena must work with Luna to find the other Sailor Scouts and the Moon Princess, whose Legendary Silver Crystal is Earth's only hope against the dark forces of the evil Queen Beryl!
+        episodes:
+          1:
+            title: A Moon Star is Born
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S01/01.jpg
+            originally_available: 1995-09-11
+            summary: Serena meets a talking black cat named Luna, who reveals that dark forces are threatening the lives of the innocent and that Serena has the power to stop them. Using a magical brooch, Serena is transformed into Sailor Moon, the chosen guardian who fights for love and justice.
+          2:
+            title: Talk Radio
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S01/02.jpg
+            originally_available: 1995-09-12
+            summary: All the girls in town are tuning in to the late-night radio program called "Midnight Zero" that reads out love letters sent in by the listeners. Meanwhile, a strange sleeping sickness is plaguing the town, causing people to fall into a coma-like state, including Ms. Haruna and Molly.
+          3:
+            title: Slim City
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S01/03.jpg
+            originally_available: 1995-09-13
+            summary: Serena is shocked to find out that she's gained weight from too much eating. Determined to get back into shape and fast, she and her friends join a gym that advertises instant results for its members.
+          4:
+            title: So You Want to be a Superstar
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S01/04.jpg
+            originally_available: 1995-09-14
+            summary: Serena and Molly both dream of becoming stars like Saffron, a graduate from their school. When the girls hear that Saffron is holding a talent contest, they see their chance to achieve stardom.
+          5:
+            title: Computer School Blues
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S01/05.jpg
+            originally_available: 1996-09-15
+            summary: Serena befriends Amy, the class genius, and invites her to the game center. However, Luna senses a strange aura around Amy, and thinks she might be a Negaverse spy.
+          6:
+            title: Time Bomb
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S01/06.jpg
+            originally_available: 1995-09-18
+            summary: Serena and Amy find a clock store selling a clock that resembles Luna. Later that day, Serena is happy to learn that her mother bought the exact same clock as a gift. But that night, the clocks from the store emit a strange light, making Serena and the rest of Tokyo very impatient.
+          7:
+            title: An Uncharmed Life
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S01/07.jpg
+            originally_available: 1995-09-19
+            summary: Several people who take the bus near the temple on Cherry Hill have gone missing. Serena, Amy, and Luna decide to investigate by visiting the temple. There, they meet Raye Hino, a shrine maiden with strong spiritual powers.
+          8:
+            title: Nightmare in Dreamland
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S01/08.jpg
+            originally_available: 1995-09-20
+            summary: The Sailor Scouts go to the Dreamland amusement park, where visitors have reportedly gone missing. The team splits into two groups, Serena and Raye and Amy and Luna. But, much to Raye's frustration, Serena is more focused on playing than finding the missing people.
+          9:
+            title: Cruise Blues
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S01/09.jpg
+            originally_available: 1995-09-21
+            summary: Titus offers to help Jedite with his wicked plans. Raye wins tickets to a luxury cruise ship, and since she has no boyfriend, asks Amy to accompany her. A jealous Serena sneaks aboard after them.
+          10:
+            title: Fight to the Finish
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S01/10.jpg
+            originally_available: 1995-09-22
+            summary: Serena continues to be attracted to both Andrew and Tuxedo Mask. Threatened with Eternal Sleep if should he fail again, Jedite confronts the Sailor Scouts at an airport.
+          11:
+            title: Match Point for Sailor Moon
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S01/11.jpg
+            originally_available: 1995-09-25
+            summary: Neflite is appointed as Jedite's successor and begins selecting individual targets for energy, the first one being Molly's friend Katie.
+          12:
+            title: An Unnatural Phenomena
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S01/12.jpg
+            originally_available: 1995-09-26
+            summary: Raye falls for Darien and persuades him to go on a date with her. Meanwhile, Neflite targets the caretaker of a local park.
+          13:
+            title: Wedding Day Blues
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S01/13.jpg
+            originally_available: 1995-09-27
+            summary: Serena decides to enter a homemade wedding dress contest, while her home economics teacher is targeted by Neflite.
+          14:
+            title: Shutter Bugged
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S01/14.jpg
+            originally_available: 1995-09-28
+            summary: Neflite targets a gifted young photographer, while Serena tries to achieve her dream of becoming a model.
+          15:
+            title: Dangerous Dollies
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S01/15.jpg
+            originally_available: 1995-09-29
+            summary: Sammy upsets his friend Mika, an award-winning doll maker whose skills make her the next target for Neflite's energy gathering.
+          16:
+            title: Who is that Masked Man?
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S01/16.jpg
+            originally_available: 1995-10-02
+            summary: Neflite takes advantage of Sailor Moon's attraction to Tuxedo Mask by sending love letters to Serena and her classmates. Molly falls in love with him in his civilian disguise, allowing him to drain a large amount of her energy.
+          17:
+            title: An Animated Mess
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S01/17.jpg
+            originally_available: 1995-10-03
+            summary: Neflite uses his most powerful monsters to target an animator working for the new Sailor V movie.
+          18:
+            title: Worth a Princess's Ransom
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S01/18.jpg
+            originally_available: 1995-10-04
+            summary: Both Luna and Queen Beryl wonder if a visiting princess could be the Moon Princess. Darien dreams he is Tuxedo Mask and a girl is asking him for the Silver Crystal. At the ball, Serena gets her first kiss.
+          19:
+            title: Molly's Folly
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S01/19.jpg
+            originally_available: 1995-10-05
+            summary: Zoycite decides to use Neflite's recently discovered romantic feelings for Molly to manipulate him into handing over the Black Crystal.
+          20:
+            title: A Friend in Wolf's Clothing
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S01/20.jpg
+            originally_available: 1995-10-06
+            summary: Still in love with Neflite, Molly becomes an unwilling tool in the power struggle between Neflite and Zoycite.
+          21:
+            title: Jupiter Comes Thundering In
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S01/21.jpg
+            originally_available: 1995-10-09
+            summary: Queen Beryl sends Zoycite and Malachite to find the Seven Shadows and their Rainbow Crystals. Meanwhile, the tomboyish Lita Kino transfers into Serena's school and falls for a crane-game whiz at the arcade.
+          22:
+            title: The Power of Friendship
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S01/22.jpg
+            originally_available: 1995-10-10
+            summary: Molly is still very depressed after Neflite's death. Serena and Melvin decide to take her out to cheer her up. There, a kindly priest is attacked by Zoycite. Darien realizes that he is Tuxedo Mask, and drops a locket on the ground, where Serena finds it.
+          23:
+            title: Mercury's Mental Match
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S01/23.jpg
+            originally_available: 1995-10-11
+            summary: Amy is bested in a school test by another student named Greg, who can foresee the future and who has a crush on her. He also already knows that he is one of the Rainbow Crystal holders.
+          24:
+            title: An Artful Attack
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S01/24.jpg
+            originally_available: 1995-10-12
+            summary: Serena and Darien are asked to model for the reclusive painter Peggy Jones, who is unexpectedly targeted by Zoycite.
+          25:
+            title: Too Many Girlfriends
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S01/25.jpg
+            originally_available: 1995-10-13
+            summary: Lita, like Serena, develops a crush on Andrew. The two then decide to pursue him simultaneously, even after finding out that he has a girlfriend, who, meanwhile, is targeted by Zoycite and Malachite.
+          26:
+            title: Grandpa's Follies
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S01/26.jpg
+            originally_available: 1995-10-16
+            summary: After fighting off an attack by Zoycite, Raye's grandfather takes on an apprentice and begins acting strangely.
+          27:
+            title: Kitty Chaos
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S01/27.jpg
+            originally_available: 1995-10-17
+            summary: Luna discovers that she has an admirer, in the form of an overweight tomcat named Hercules. Meanwhile, the Sailor Scouts and Zoycite compete for the last Rainbow Crystal.
+          28:
+            title: Tuxedo Melvin
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S01/28.jpg
+            originally_available: 1995-10-18
+            summary: Melvin misinterprets Serena's advice on seducing Molly, and begins to adopt the persona of Tuxedo Mask.
+          29:
+            title: Sailor V Makes the Scene
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S01/29.jpg
+            originally_available: 1995-10-19
+            summary: Zoycite disguises himself as Sailor Moon to lure Tuxedo Mask and the Sailor Scouts out into the open. The Negaforce injures Tuxedo Mask, but they are foiled by the appearance of Sailor Venus.
+          30:
+            title: A Crystal Clear Destiny
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S01/30.jpg
+            originally_available: 1995-10-20
+            summary: Darien is forced to confront Zoycite in a duel over the Rainbow Crystals, but Serena inadvertently becomes involved.
+          31:
+            title: A Reluctant Princess
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S01/31.jpg
+            originally_available: 1995-10-23
+            summary: Serena and Darien remember their former lives. The Negaverse kidnaps the injured Darien, but Queen Beryl executes Zoycite for their attempt to kill him. Luna and Artemis tell the Sailor Scouts about their tragic past.
+          32:
+            title: Bad Hair Day
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S01/32.jpg
+            originally_available: 1995-10-24
+            summary: Mina tries to cheer Serena up by taking her to a hair salon, leading to the discovery that Tuxedo Mask is still alive, but now very different.
+          33:
+            title: Little Miss Manners
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S01/33.jpg
+            originally_available: 1995-10-25
+            summary: Determined to become more like the princess she is supposed to be, Serena decides to enlist in Countess Rose's Princess Seminar.
+          34:
+            title: Ski Bunny Blues
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S01/34.jpg
+            originally_available: 1995-10-26
+            summary: Serena and her friends visit the Pinecone Ski Resort, unaware that Malachite has sabotaged the Moon Princess Contest in order to unmask Sailor Moon.
+          35:
+            title: Ice Princess
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S01/35.jpg
+            originally_available: 1995-10-27
+            summary: After discovering that the Moon Princess was once known for her graceful ice skating, Malachite tries to use this information to trap Sailor Moon. Tuxedo Mask appears to help them, but only because he does not agree with Malachite's method of involving bystanders.
+          36:
+            title: Last Resort
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S01/36.jpg
+            originally_available: 1995-10-30
+            summary: Serena and her family visit a hot springs resort, while Prince Darien is sent to resurrect an ancient legendary monster.
+          37:
+            title: Tuxedo Unmasked
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S01/37.jpg
+            originally_available: 1995-10-31
+            summary: Queen Beryl orders the seven people gathered who had carried Rainbow Crystals, intending to combine them into one huge monster. Amy is determined to protect Greg. Sailor Moon tries to heal Prince Darien.
+          38:
+            title: Fractious Friends
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S01/38.jpg
+            originally_available: 1995-11-01
+            summary: On orders from Queen Beryl, Malachite and his monster investigate the rumors of a rift between Sailor Moon and the other Sailor Scouts, who seem to want both the Crescent Moon Wand and the Silver Crystal for themselves.
+          39:
+            title: The Past Returns
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S01/39.jpg
+            originally_available: 1995-11-02
+            summary: A blast of energy sends the Sailor Scouts to the ruined Moon Kingdom, where they meet a hologram of Queen Serenity and learn about their past. Luna and Artemis find the entrance to the Negaverse. 
+          40:
+            title: Day of Destiny
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S01/40.jpg
+            originally_available: 1995-11-03
+            summary: After regaining their past memories, and discovering the Negaverse's hideout the Sailor Scouts head for the enemy. Sailor Moon is transported inside the Negaverse to face Queen Beryl and the brainwashed Prince Darien.
+      2:
+        title: Sailor Moon R
+        alt_title: Sailor Moon Romance
+        summary: >-
+              Serena and her friends return to their normal lives after their epic battle, but the Sailor Scouts are called back into action when powerful new enemies appear. By the power of the Legendary Silver Crystal, Sailor Moon gains strength with a dazzling new attack and transformation. The coming battle won't be easy, but things get even more complicated when a mysterious pink-haired girl falls from the sky and goes after Darien!
+        episodes:
+          1:
+            title: The Return of Sailor Moon
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S02/01.jpg
+            originally_available: 1995-11-22
+            summary: Two mysterious aliens show up in town and Luna and Artemis restore Serena's memories of being Sailor Moon
+          2:
+            title: So You Want to be in Pictures
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S02/02.jpg
+            originally_available: 1995-11-23
+            summary: Alan and Anne target a TV company who have invited Amy, Raye, Lita, Mina and Molly for auditions. Luna and Artemis are forced to consider restoring the memories of the rest of the Sailor Team.
+          3:
+            title: A Knight to Remember
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S02/03.jpg
+            originally_available: 1995-11-24
+            summary: Lita is forced to donate blood after her childhood friend is injured by a Cardian. Meanwhile, the mysterious Moonlight Knight appears in the midst of battle to help the Sailor Scouts.
+          4:
+            title: VR Madness
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S02/04.jpg
+            originally_available: 1995-11-27
+            summary: Serena visits the new Virtual Reality Theatre with Darien unaware that it is the next target for Alan and Anne's energy harvesting operations.
+          5:
+            title: Cherry Blossom Time
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S02/05.jpg
+            originally_available: 1995-11-28
+            summary: A powerful Cardian attacks a cherry blossom viewing party, and Sailor Moon is suddenly unable to fight it.
+          6:
+            title: Kindergarten Chaos
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S02/06.jpg
+            originally_available: 1995-11-29
+            summary: Mina becomes entangled with a kindergarten student who worships Sailor Moon, just as the aliens chose to target younger victims for their energy.
+          7:
+            title: Much Ado About Babysitting
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S02/07.jpg
+            originally_available: 1995-11-30
+            summary: Alan and Anne are now targeting babies as a source of energy. When a baby's mother is attacked and in the hospital Darien and Serena have to look after the child.
+          8:
+            title: Raye's Day in the Spotlight
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S02/08.jpg
+            originally_available: 1995-12-01
+            summary: Raye takes up songwriting for a school event. Alan and Anne target the event for its abundance of energy but end up getting parts in the play themselves.
+          9:
+            title: Food Fetish
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S02/09.jpg
+            originally_available: 1995-12-04
+            summary: Lita develops a crush on Alan while Amy investigates the possibility that he is the Moonlight Knight.
+          10:
+            title: Mirror, Mirror on the Wall
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S02/10.jpg
+            originally_available: 1995-12-05
+            summary: Some of Darien's college friends put on a production of Snow White and Serena and her friends are the only ones left to be in it. Anne assures she will be Snow White since Darien will be the prince. Alan becomes jealous and sends in a Cardian to attack.
+          11:
+            title: Detention Doldrums
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S02/11.jpg
+            originally_available: 1995-12-06
+            summary: After Serena is caught eating in class and Anne talks back to a teacher, they both find themselves in detention. To survive, Anne decides to steal Serena's energy. Meanwhile, Alan faces off with the other Sailor Scouts using another Cardian.
+          12:
+            title: Secret Garden
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S02/12.jpg
+            originally_available: 1995-12-07
+            summary: When the Doom Tree seems it's close to dying, Alan and Anne begin to steal even more energy, but are horrified when the tree does not respond to the energy. Serena pays the siblings a visit and is attacked by the Doom Tree.
+          13:
+            title: Treed
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S02/13.jpg
+            originally_available: 1995-12-08
+            summary: The Sailor Scouts have to save Serena and Darien from the Doom Tree and in the process, Alan and Anne find out Sailor Moon's true identity.
+          14:
+            title: Serena Times Two
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S02/14.jpg
+            originally_available: 1995-11-06
+            summary: A strange child appears from the sky and demands the Silver Crystal from Serena.
+          15:
+            title: The Cosmetic Caper
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S02/15.jpg
+            originally_available: 1995-11-07
+            summary: Darien begins to experience bizarre visions, which prompt him to break up with Serena. Meanwhile, Bertie begins to spread Dark Energy via a cosmetics store.
+          16:
+            title: Sailor Mercury Moving On?
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S02/16.jpg
+            originally_available: 1995-11-08
+            summary: Amy considers leaving Japan and her life as a Sailor Scout behind to study medicine abroad in Germany. Meanwhile, Bertie takes over Bob-Floy, an ice cream store, to spread Dark Energy.
+          17:
+            title: Gramps in a Pickle
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S02/17.jpg
+            originally_available: 1995-11-09
+            summary: Raye's grandfather tries to get more girls into the shrine, but Catzy targets it in its role as a Crystal Point.
+          18:
+            title: Trouble Comes Thundering Down
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S02/18.jpg
+            originally_available: 1995-11-10
+            summary: In an attempt to capture Rini, Prizma's droid creates a thunderstorm in hopes it will cause her strong magical energy to the peak.
+          19:
+            title: A Charmed Life
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S02/19.jpg
+            originally_available: 1995-11-13
+            summary: Lita and Mina get into a fight and refuse to speak to each other. Meanwhile, Avery and Prizma take over a Crystal Point, a fortune-telling and jewelry store, to spread dark energy.
+          20:
+            title: A Curried Favor
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S02/20.jpg
+            originally_available: 1995-11-14
+            summary: Serena and Rini decide to make curry together for a party at her school, but the Juban Supermarket becomes targeted by Avery and Prizma.
+          21:
+            title: Naughty 'N' Nice
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S02/21.jpg
+            originally_available: 1995-11-15
+            summary: Wiseman predicts that Rini will appear, so Rubeus sends the Negamoon Sisters to capture her, leading to a battle with the Sailor Team.
+          22:
+            title: Prediction of Doom
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S02/22.jpg
+            originally_available: 1995-11-16
+            summary: Sailor Moon is attacked by a Droid who locks her in a nightmare, and the only one who can wake her is Tuxedo Mask.
+          23:
+            title: Enemies No More
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S02/23.jpg
+            originally_available: 1995-11-17
+            summary: Catzy makes a final bid to kill Rini, convinced she can win Rubeus' heart. However, she faces unexpected opposition from Sailor Mars, and is shocked to be rejected by Rubeus.
+          24:
+            title: Checkmate
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S02/24.jpg
+            originally_available: 1995-11-20
+            summary: Amy enters an international chess tournament at the Chess Tower, and discovers that Bertie has targeted the building.
+          25:
+            title: Sibling Rivalry
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S02/25.jpg
+            originally_available: 1995-11-21
+            summary: Spurred on by Wiseman, Rubeus sends Avery and Prizma on a suicide mission to kill the Sailor Scouts and Rini.
+          26:
+            title: Rubeus Evens the Score
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S02/26.jpg
+            originally_available: 1998-11-30
+            summary: After discovering that he is to be exiled, Rubeus resorts to desperate measures to kill Rini, and succeeds in abducting the Sailor Scouts.
+          27:
+            title: Rubeus Strikes Out
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S02/27.jpg
+            originally_available: 1998-12-01
+            summary: With the rest of the Sailor Team captured by Rubeus, Sailor Moon plans a rescue, and is taken aboard the UFO for a final showdown.
+          28:
+            title: The Secret of the Luna Sphere
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S02/28.jpg
+            originally_available: 1998-12-02
+            summary: Rini becomes ill suddenly, her mind invaded by the power of the Dark Crystal. Sailor Pluto, a Sailor Scout from the future, appears to the Sailor Team to offer her help.
+          29:
+            title: Emerald Takes Over
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S02/29.jpg
+            originally_available: 1998-12-03
+            summary: Emerald begins her attack on 20th century Tokyo by using Sapphire's Dark Power Wedges to fill a vulnerable spot inside a cake shop with dark energy.
+          30:
+            title: Promises Fulfilled
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S02/30.jpg
+            originally_available: 1998-12-04
+            summary: While Emerald targets the latest craze, promise rings,Serena has a dream that may explain why Darien has been acting coldly towards her.
+          31:
+            title: No Thanks, Nurse Venus!
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S02/31.jpg
+            originally_available: 1998-12-07
+            summary: Emerald releases a virulent strain of the flu into Tokyo, and only Mina and Rini seem unaffected.
+          32:
+            title: Dog Day for Artemis
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S02/32.jpg
+            originally_available: 1998-12-08
+            summary: After Luna wounds his pride one too many times, Artemis sets out on a mission to prove his worth, and stumbles upon Emerald's latest plot.
+          33:
+            title: Smart Payoff
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S02/33.jpg
+            originally_available: 1998-12-09
+            summary: Emerald attacks a local cram school, altering the behavior of the students there. When Amy investigates, she is subjected to a series of hallucinations by Emerald's Droid.
+          34:
+            title: Child's Play
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S02/34.jpg
+            originally_available: 1998-12-10
+            summary: Emerald attacks two targets simultaneously, creating chaos in Rini's school, and the Sailor Team face off against her two Droids.
+          35:
+            title: Future Shocked
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S02/35.jpg
+            originally_available: 1998-12-11
+            summary: The Sailor Scouts accompany Rini into the Time Warp gates, where they are attacked by Emerald and her Droid.
+          36:
+            title: Legend of the Negamoon
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S02/36.jpg
+            originally_available: 1998-12-14
+            summary: The Sailor Scouts arrive in the 30th century with Rini, where they are met by King Darien, a.k.a. the King of Earth, Darien's future self.
+          37:
+            title: Jealousy's Just Reward
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S02/37.jpg
+            originally_available: 1998-12-15
+            summary: Rini falls under the control of Wiseman, while Emerald resolves to kill Sailor Moon and win Prince Diamond's heart by any means necessary.
+          38:
+            title: Birth of Wicked Lady
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S02/38.jpg
+            originally_available: 1998-12-16
+            summary: Rini is kidnapped by Wiseman. He brainwashes her into thinking her parents don't love her and transforms her into a villain called Black Lady.
+          39:
+            title: Brotherly Love
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S02/39.jpg
+            originally_available: 1998-12-17
+            summary: Sapphire discovers that Wiseman has been plotting against the Negamoon, and races to warn his brother of the betrayal.
+          40:
+            title: Diamond in the Rough
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S02/40.jpg
+            originally_available: 1998-12-18
+            summary: The Sailor Secouts go inside the growing Dark Crystal fragment, where Sailor Moon finally confronts Prince Diamond.
+          41:
+            title: Final Battle
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S02/41.jpg
+            originally_available: 1998-12-21
+            summary: Sailor Moon faces Black Lady, as Wiseman prepares to fire the power of the Evil Black Crystal through the Dark Gate and destroy the Earth.
+          42:
+            title: Follow the Leader
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Sailor-Moon-US/S02/42.jpg
+            originally_available: 1998-12-22
+            summary: The Sailor Scouts present a preview of the forthcoming season, and debate the prospect of selecting a new leader.
+
