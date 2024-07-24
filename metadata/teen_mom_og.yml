@@ -1,0 +1,1084 @@
+metadata:
+  Teen Mom OG:
+    title: Teen Mom OG
+    year: 2009
+    summary:  >-
+              In 16 and Pregnant, they were moms-to-be. Now, follow Farrah, Maci, Amber, and Catelynn as they face the challenges of motherhood. Each episode interweaves these stories revealing the wide variety of challenges young mothers can face: marriage, relationships, family support, adoption, finances, graduating high school, starting college, getting a job, and the daunting and exciting step of moving out to create their own families.
+    seasons:
+# SPECIALS
+      0:
+        episodes: 
+#          100:
+#            title: "Catching Up with 16 and Pregnant: The Girls of Teen Mom"
+#            originally_available: 2009-12-01
+#            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S00/01.jpg
+#            summary: Before Maci, Farrah, Amber and Catelynn return as teenage mothers, the audience is presented with a look at the most significant moments from 16 and Pregnant.
+#          101:
+#            title: "Season 1: Unseen Moments"
+#            originally_available: 2010-02-09
+#            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S00/unseen1.jpg
+#            summary: Dr. Drew hosts a look at the exclusive moments we never saw with Farrah, Maci, Catelynn and Amber from the first season of Teen Mom.
+          201:
+            title: "Season 2: Unseen Moments"
+            originally_available: 2010-10-12
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S00/unseen2.jpg
+            summary: Dr. Drew hosts an exclusive look at never-before-seen laughs, struggles and other drama from Season 2.
+#          202:
+#            title: Baby Talk
+#            originally_available: 2010-10-19
+#            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S00/babytalk.jpg
+#            summary: A special 30 minute episode all about the babies. The cast sit together to watch parts not shown in the second season. They include Top 3 cutest moments, Teen MOMents, and other challenging things the moms went through.
+#          301:
+#            title: Teen Dads
+#            originally_available: 2010-09-18
+#            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S00/teendads.jpg
+#            summary: Hosted by Dr. Drew, for the first time the dads of 'Teen Mom' and 'Teen Mom 2' come together to discuss the ups and downs, the challenges, the hilarious moments, and the biggest mistakes they've made since becoming young fathers.
+          302:
+            title: "Season 3: Unseen Moments"
+            originally_available: 2010-10-04
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S00/unseen3.jpg
+            summary: Dr. Drew hosts an exclusive look at never-before-seen laughs, struggles and other drama from Season 3 with Farrah, Maci, Catelynn, and Amber.
+#          400:
+#            title: Catching Up With the Girls of Teen Mom
+#            originally_available: 2012-05-29
+#            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S00/02.jpg
+#            summary: A look back at Amber, Catelynn, Farrah, and Amber's stories from the beginning of 16 & Pregnant, through the triumphs and challenges, and most emotional moments of the first three seasons of Teen Mom.
+          401:
+            title: "Season 4: Unseen Moments"
+            originally_available: 2012-09-19
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S00/unseen4.jpg
+            summary: Dr. Drew hosts a look at the exclusive moments we never saw with Farrah, Maci, Catelynn and Amber from the final season of Teen Mom.
+#          403:
+#            title: Teen Mom Farewell Special
+#            originally_available: 2012-10-02
+#            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S00/farewell.jpg
+#            summary: The original Teen Moms look back, reflect and say goodbye as their stories come to an end.
+#          404:
+#            title: Ask the Moms
+#            originally_available: 2012-10-09
+#            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S00/02.jpg
+#            summary: In this half hour special, Teen Mom fans finally get a chance to ask Maci, Farrah, Amber, and Catelynn (and the major players in their lives) all the questions they've been dying to know. After four amazing seasons, there's still lots we don't know and now people across the country will get a chance to ask the mom's and the dad's directly... and get the inside scoop.
+          405:
+            title: "Amber Behind Bars: A MTV Special"
+            originally_available: 2012-10-09
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S00/amberbehindbars.jpg
+            summary: Dr. Drew sits down with Amber Portwood inside the Rockville Correctional Facility for an intimate discussion about what life has been like behind bars, including the status of her relationship with her daughter Leah and ex-boyfriend Gary.
+#          411:
+#            title: Being Maci
+#            originally_available: 2013-08-19
+#            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S00/beingmaci.jpg
+#            summary: In this special, Maci gets some time to hang out with her friends and enjoy being 21 while Ryan watches Bentley. But when Ryan's girlfriend goes out of town, the former couple find themselves hanging out together for the first time since their breakup.
+#          412:
+#            title: Being Amber
+#            originally_available: 2014-02-23
+#            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S00/beingamber.jpg
+#            summary: Two years ago, Amber went from being the bad girl of Teen Mom, to a prison inmate. After being locked up for a year and a half, we see Amber reconnect with her daughter, deal with her past, and cope with the outside world
+#          413:
+#            title: Being Catelynn
+#            originally_available: 2014-02-23
+#            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S00/beingcatelynn.jpg
+#            summary: It’s been two years since Teen Mom wrapped and Catelynn continues to struggle with the reality of having chosen adoption for her daughter Carly and now questions whether her and Tyler will ever get married.
+#          414:
+#            title: Being Farrah
+#            originally_available: 2014-02-23
+#            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S00/beingfarrah.jpg
+#            summary: Since appearing on Teen Mom, Farrah shocked the world with a sex tape and multiple plastic surgeries. Farrah is forced to confront those choices head on when her mom Debra comes to visit her and her daughter, Sophia.
+#          415:.
+#            title: Being Dad
+#            originally_available: 2014-06-08
+#            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S00/beingdad.jpg
+#            summary: Meet up with Ryan, Corey, and Jo to see how their lives have changed since the birth of their children.
+#          501:
+#            title: Getting to Know Maci
+#            originally_available: 2015-02-21
+#            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S00/knowmaci.jpg
+#            summary: In a special one-hour episode, Maci and her friends revisit the past six years of Maci's life and watch highlights from 16 and Pregnant and Teen Mom while discussing the difficulty of growing up in front of an audience.
+#          502:
+#            title: Getting to Know Amber
+#            originally_available: 2015-02-21
+#            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S00/knowamber.jpg
+#            summary: In this one hour special, Amber and Gary take a look back at the six years MTV has documented their lives. They discuss their drug addiction, why she made the choice to go to jail, and if she will ever get custody of Leah again.
+#          503:
+#            title: Getting to Know Catelynn
+#            originally_available: 2015-02-21
+#            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S00/knowcatelynn.jpg
+#            summary: Catelynn and Tyler decided to place their baby up for adoption and the cameras have been documenting their journey ever since. On this one hour special, they relive those raw, emotional moments and everything that followed.
+#          504:
+#            title: Getting to Know Farrah
+#            originally_available: 2015-02-21
+#            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S00/knowfarrah.jpg
+#            summary: Farrah's family, friends, and producers come together to divulge their real feelings about Farrah's involvement in the adult entertainment industry and discus the hardships following Sophia's dad's death.
+          505:
+            title: "Season 5A: Catch Up Special"
+            originally_available: 2015-03-16
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S00/catchup5.jpg
+            summary: Catch up with the original girls who started it all and relive Catelynn, Maci, and Ambers journeys as they navigate being 16 and Pregnant to the Teen Moms they are today.
+          506:
+            title: "Season 5A: Unseen Moments"
+            originally_available: 2015-06-15
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S00/unseen5a.jpg
+            summary: Dr. Drew and the girls take a look at never-before-seen footage and share the behind-the-scenes secrets from Teen Mom OG.
+#          507:
+#            title: Behind the Cameras
+#            originally_available: 2015-12-28
+#            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S00/behindthecamera.jpg
+#            summary: For the first time ever, Maci, Farrah, Cate and Amber show us what it's like to shoot Teen Mom. They share personal home videos and we see just how close they are with their crew. Nothing is left on the cutting room floor.
+#          508:
+#            title: "Season 5B: Unseen Moments"
+#            originally_available: 2016-03-14
+#            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S00/unseen5b.jpg
+#            summary: Dr. Drew and the girls take a look at never-before-seen footage and share the behind-the-scenes secrets from Teen Mom OG.
+          601:
+            title: Being Butch
+            originally_available: 2016-07-18
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S00/beingbutch.jpg
+            summary: After Butch is released from prison, memories and forgiveness bring Tyler and Butch to a new closeness that changes their lives. Butch finds himself in a happy relationship and makes steps towards getting engaged.
+#          602:
+#            title: "Season 6A: Catch-Up Special"
+#            originally_available: 2016-08-15
+#            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S00/catchup6a.jpg
+#            summary: Look back at the past 7 years of the original Teen Moms, from new loves and cute kids to break-ups and mama drama, as well as exclusive sneak-peeks of the upcoming season.
+#          603:
+#            title: "Season 6A: Ask The Moms"
+#            originally_available: 2016-11-21
+#            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S00/.jpg
+#            summary: Hosted by Nessa, a fun-filled show in which Maci, Amber, and Catelynn engage with fans to answer all the questions they’ve been burning to ask.
+          604:
+            title: "Season 6A: Unseen Moments"
+            originally_available: 2016-12-12
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S00/unseen6a.jpg
+            summary: Maci, Catelynn and Amber join Nessa to react to a collection of hilarious and touching never-before-seen clips from the show!
+          605:
+            title: Being the Edwards
+            originally_available: 2017-02-08
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S00/beingtheedwards.jpg
+            summary: Larry and Jen have helped Ryan care for his son Bentley for 8 years, but a fight between Ryan and Larry nearly broke their family apart; the Edwards family is determined to build a strong foundation of support and understanding.
+          606:
+            title: Being Debra
+            originally_available: 2017-02-15
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S00/beingdebra.jpg
+            summary: Newly engaged Debra is head-over-heels in love with fiance David, but her relationship with daughter Farrah is still rocky. Debra starts her own record label and comes up with a plan to unite her family through song.
+#          607:
+#            title: Being Matt
+#            originally_available: 2017-04-10
+#            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S00/beingmatt.jpg
+#            summary: Before marrying fiance Amber, Matt comes face-to-face with the consequences of his addiction when he invites his two youngest kids to visit and meet their older half brother for the first time.
+#          608:
+#            title: "Season 6B: Catch-Up Special"
+#            originally_available: 2017-04-10
+#            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S00/catchup6b.jpg
+#            summary: A recap of the first half of the season and a sneak peek of the second half.
+          609:
+            title: "Season 6B: Unseen Moments"
+            originally_available: 2017-06-19
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S00/unseen6b.jpg
+            summary: Maci, Catelynn and Amber join Nessa to react to a collection of hilarious and touching never-before-seen clips from this season of "Teen Mom!"
+          610:
+            title: "Season 6B: Ask the Moms"
+            originally_available: 2017-07-10
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S00/askthemoms6b.jpg
+            summary: Catelynn, Maci, and Amber get real - and real emotional - when answering fan questions about the show and their lives off-screen, while Farrah is on troll patrol.
+#          701:
+#            title: Being Simon
+#            originally_available: 2017-10-11
+#            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S00/beingsimon.jpg
+#            summary: Farrah's ex-boyfriend, Simon, is busy juggling his real estate career, friends, and nightlife. But now he wants to partner up with Farrah and flip houses. After a trip to the bay area, Farrah gets to know Simon's Indian culture and sparks fly ...again.
+#          70X:
+#            title: That's a Wrap 2017
+#            originally_available: 2017-12-25
+#            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S00/.jpg
+#            summary: You're invited to the party of the year with the casts of Teen Mom OG and Teen Mom 2! Join them in a swanky LA loft for a night of games, gossip, and fun as they celebrate 2017 and look ahead to 2018.
+          702:
+            title: Being Gary
+            originally_available: 2018-02-19
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S00/beinggary.jpg
+            summary: To celebrate Leah's 9th birthday party, Gary plans a trip to Florida with his family and hopes to fix his difficult relationship with his mom, Carol; his parents recently started dating each other again.
+          703:
+            title: "Season 7A: Unseen Moments"
+            originally_available: 2018-04-30
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S00/unseen7a.jpg
+            summary: Never before seen footage from season 7 of 'Teen Mom OG' as the moms and the dads view the footage together!
+          704:
+            title: "Season 7A: Ask the Moms"
+            originally_available: 2018-09-10
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S00/askthemoms7a.jpg
+            summary: The moms and grandmas answer fan questions on topics ranging from Farrah’s exit, how they deal with social media judgement and vaginal rejuvenation.
+          705:
+            title: Where Are They Now? Mackenzie McKee
+            originally_available: 2018-09-19
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S00/wherearetheynow.jpg
+            summary: Teen Mom OG's Mackenzie McKee opens up about her battle with postpartum depression, being a mom of three while starting a career and coping with her mother's cancer diagnosis.
+          706:
+            title: Meet the New Moms
+            originally_available: 2018-09-24
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S00/meetthenewmoms.jpg
+            summary: Meet Bristol and Cheyenne. Learn how Bristol’s teen pregnancy was at the forefront of conversation during her mother’s, Sarah Palin’s, Vice Presidential campaign and how Cheyenne’s participation on MTV’s The Challenge lead to her unexpected pregnancy.
+#          707:
+#            title: "Season 7B: Unseen Moments"
+#            originally_available: 2019-01-01
+#            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S00/unseen7b.jpg
+#            summary: Never before seen moments from this season of Teen Mom OG. #GenderReveal #NewTeeth #LOL
+          708:
+            title: "Season 7B: Ask the Moms"
+            originally_available: 2019-01-07
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S00/askthemoms7b.jpg
+            summary: The OG’s and the Y&P’s get together in NYC to answer the most burning fan questions
+          709:
+            title: Backstage Pass
+            originally_available: 2019-01-07
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S00/backstagepass.jpg
+            summary: Join the TMOG families backstage at the Reunion in New York City. Watch as they bond behind the scenes and share never before heard stories about their lives and relationships.
+          710:
+            title: "Maci & Taylor: A Love Story"
+            originally_available: 2019-01-21
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S00/maciandtaylor.jpg
+            summary: Maci and Taylor take a walk down memory lane to look back at their journey together, from when they first met to the birth of their children to their wedding day.
+          801:
+            title: Being Cory
+            originally_available: 2019-04-01
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S00/beingcory.jpg
+            summary: Even after taking on MTV's The Challenge, Cory Wharton's biggest challenge of all may be fatherhood -- and balancing his rising career and ever-changing love life.
+          802:
+            title: Being Dakota
+            originally_available: 2019-04-16
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S00/beingdakota.jpg
+            summary: War hero and entrepreneur Dakota Meyer navigates the struggles of co-parenting with his ex-wife Bristol while adjusting to being a single dad to his two daughters.
+          803:
+            title: Being Levi
+            originally_available: 2019-05-27
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S00/beinglevi.jpg
+            summary: Levi Johnston recalls being a teen dad in the public eye, tackles co-parenting with Bristol from across the country and celebrates the gender reveal of his fourth child.
+          804:
+            title: "Season 8A: Unseen Moments"
+            originally_available: 2019-09-03
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S00/unseen8a.jpg
+            summary: Nessa sits down with Cheyenne and Cory, Catelynn and Tyler, Maci and Taylor, and Gary and Kristina to watch candid, never-before-seen footage from the show.
+
+# SEASONS
+      1:
+        episodes: 
+          1:
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S01/01.jpg
+          2:
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S01/02.jpg
+          3:
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S01/03.jpg
+          4:
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S01/04.jpg
+          5:
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S01/05.jpg
+          6:
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S01/06.jpg
+          7:
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S01/07.jpg
+          8:
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S01/08.jpg
+          9:
+            title: Check Up with Dr. Drew
+            originally_available: 2010-02-02
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/placeholder.jpg
+            summary: Dr. Drew hosts the cast of Teen Mom on-stage in front of a live studio audience. Maci, Farrah, Catelynn and Amber reflect on the struggles of their first year of motherhood, and reveal what's happened since.
+      2:
+        episodes: 
+          1:
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S02/01.jpg
+          2:
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S02/02.jpg
+          3:
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S02/03.jpg
+          4:
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S02/04.jpg
+          5:
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S02/05.jpg
+          6:
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S02/06.jpg
+          7:
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S02/07.jpg
+          8:
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S02/08.jpg
+          9:
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S02/09.jpg
+          10:
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S02/10.jpg
+          11:
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S02/11.jpg
+          12:
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S02/12.jpg
+          13:
+            title: Check Up With Dr. Drew
+            originally_available: 2010-10-19
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S02/13.jpg
+            summary: Dr. Drew Pinsky chats with the teenage mothers about their second year of motherhood and what happened since the cameras stopped rolling.
+      3:
+        episodes: 
+          1:
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S03/01.jpg
+          2:
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S03/02.jpg
+          3:
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S03/03.jpg
+          4:
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S03/04.jpg
+          5:
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S03/05.jpg
+          6:
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S03/06.jpg
+          7:
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S03/07.jpg
+          8:
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S03/08.jpg
+          9:
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S03/09.jpg
+          10:
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S03/10.jpg
+          11:
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S03/11.jpg
+          12:
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S03/12.jpg
+          13:
+            title: Check Up With Dr. Drew, Pt 1
+            originally_available: 2011-09-27
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S03/13.jpg
+            summary: Dr. Drew hosts the four teen moms in front of a live studio audience. In part one of the finale special, Farrah and Amber reflect on the past year of motherhood - the struggles, triumphs, legal battles, and family strife that we saw them face in Season 3, and everything that has happened since.
+          14:
+            title: Check Up With Dr. Drew, Pt 2
+            originally_available: 2011-10-04
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S03/14.jpg
+            summary: In the dramatic conclusion of the finale, Catelynn and Maci discuss the new milestones, custody battles, school struggles, and family problems that we saw them face in Season 3, and Ryan and Kyle share the stage for the first time.
+      4:
+        episodes: 
+          1:
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S04/01.jpg
+          2:
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S04/02.jpg
+          3:
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S04/03.jpg
+          4:
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S04/04.jpg
+          5:
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S04/05.jpg
+          6:
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S04/06.jpg
+          7:
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S04/07.jpg
+          8:
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S04/08.jpg
+          9:
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S04/09.jpg
+          10:
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S04/10.jpg
+          11:
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S04/11.jpg
+          12:
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S04/12.jpg
+          13:
+            title: Check Up With Dr. Drew, Pt 1
+            originally_available: 2012-09-04
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S04/13.jpg
+            summary: Dr. Drew hosts the Teen Moms in front of a live studio audience. Catelynn, Tyler, and Farrah reflect on their journeys in the last four seasons, and the struggles and triumphs of their final season.
+          14:
+            title: Check Up With Dr. Drew, Pt 2
+            originally_available: 2012-09-11
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S04/14.jpg
+            summary: Maci drops a bombshell about her relationship with Kyle, and shares the stage for the first time with Ryan's new girlfriend. Gary reflects on his journey with Amber, and Leah, Bentley and Sophia share the stage one last time.
+# SEASON 5
+      5:
+        episodes: 
+          1:
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S05/01.jpg
+          2:
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S05/02.jpg
+          3:
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S05/03.jpg
+          4:
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S05/04.jpg
+          5:
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S05/05.jpg
+          6:
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S05/06.jpg
+          7:
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S05/07.jpg
+          8:
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S05/08.jpg
+          9:
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S05/09.jpg
+          10:
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S05/10.jpg
+          11:
+            title: Check Up With Dr. Drew, Pt 1
+            originally_available: 2015-06-01
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S05/11.jpg
+            summary: Dr. Drew sits down with the cast of Teen Mom OG in front of a studio audience to chat with Catelynn and Tyler about the new baby and Farrah and her family about her history.
+          12:
+            title: Check Up With Dr. Drew, Pt 2
+            originally_available: 2015-06-08
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S05/12.jpg
+            summary: Dr. Drew sits down with the cast of Teen Mom OG in front of a studio audience to chat with Catelynn and Tyler about the new baby and Farrah and her family about her history.
+          13:
+            title: Why Can't We Just Get Along
+            originally_available: 2016-01-04
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S05/13.jpg
+            summary: Farrah realizes her relationship with Simon is over. Amber asks Gary for joint custody while Maci invites Ryan to hang out. Tyler's dad Butch is released from prison and meets Nova for the first time.
+          14:
+            title: Playing for Keeps
+            originally_available: 2016-01-04
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S05/14.jpg
+            summary: Farrah asks her mom to watch Sophia for a month, Amber is blindsided when Leah doesn't want to see her and Maci doesn't want Bentley going over to Ryan's parents house every weekend.
+          15:
+            title: Party Down
+            originally_available: 2016-01-11
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S05/15.jpg
+            summary: Farrah gets kicked out of a Hampton's White Party. Amber struggles with Gary's new visitation schedule for Leah. Catelynn and Tyler have their bachelorette/bachelor parties while Maci is frustrated that Taylor hasn't proposed.
+          16:
+            title: Never Say Goodbye
+            originally_available: 2016-01-18
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S05/16.jpg
+            summary: Farrah struggles with taking Sophia to visit Derek's family. Ryan is annoyed that Maci has all the control over Bentley. Catelynn deals with anxiety when Nova meets Carly.
+          17:
+            title: The Big Day
+            originally_available: 2016-01-25
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S05/17.jpg
+            summary: Catelynn and Tyler finally say 'I do'! Maci and Taylor buy an online t-shirt business while Amber and Matt decide to flip houses. Farrah and Debra argue when Farrah lets her know she doesn't trust her to take care of Sophia.
+          18:
+            title: Skeletons in the Closet
+            originally_available: 2015-02-01
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S05/18.jpg
+            summary: Farrah leaves for a month long business trip and has a last minute change of heart on who can watch Sophia while she is away. Maci and Ryan celebrate Bentleys 7th birthday together while Catelynn has post wedding blues.
+          19:
+            title: Forgive & Forget
+            originally_available: 2016-02-08
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S05/19.jpg
+            summary: Farah returns from her business trip and shares a life changing decision with her parents. Maci and Ryan celebrate Halloween as a family while Catelynn and Tyler go to Hawaii for their honeymoon.
+          20:
+            title: Honeymoon Is Over
+            originally_available: 2016-02-15
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S05/20.jpg
+            summary: Simon comes back into Farrah’s life and Catelynn and Tyler are concerned when Butch starts dating. Maci is overwhelmed with life and needs Taylor to step it up and Amber wants to take Leah on a trip but Gary has all the power.
+          21:
+            title: Taking Chances
+            originally_available: 2016-02-22
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S05/21.jpg
+            summary: Farrah and Simon decide to take their relationship to the next level. Maci is annoyed she does all the work for Taylor’s t-shirt business while Ryan plans a big move. Cate learns she has postpartum depression.
+          22:
+            title: Walk Away
+            originally_available: 2016-02-22
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/placeholder.jpg
+            summary: Maci is shocked that Ryan is stepping up as a father while Cate and Tyler celebrate Nova’s first birthday but Butch and April have to be separated. Amber and Gary work out their custody battle over Leah.
+          23:
+            title: Check-Up With Dr. Drew, Pt 1
+            originally_available: 2016-03-01
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S05/23.jpg
+            summary: The girls and families reunite with Dr. Drew. In this part one, Maci and Farrah dig deeper into their journey, exploring Maci's relationship with Ryan and Farrah's romance with Simon and fiery final moment.
+          24:
+            title: Check-Up With Dr. Drew, Pt 2
+            originally_available: 2015-03-08
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S05/24.jpg
+            summary: Catelynn breaks down over her depression and Tyler and Butch open up about their individual childhoods. Amber and Matt confront Gary over exposing Matt’s numerous child support cases.
+# SEASON 6
+      6:
+        episodes: 
+          1:
+            title: Put A Ring On It
+            originally_available: 2016-08-22
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S06/01.jpg
+            summary: In the Season 6 premiere, Amber and Gary settle their custody dispute; Farrah questions her relationship with Simon while planning a move to L.A.; Catelynn and Tyler contemplate having another baby; and the moms travel to L.A. to film their reunion, where Taylor's surprise for Maci steals the show.
+          2:
+            title: Tweet Tweet
+            originally_available: 2016-08-22
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S06/02.jpg
+            summary: Farrah's mom confronts Simon, who posted an old mugshot of her on social media, at Sophia's 7th birthday party; Amber deals with a rumor about Matt; Catelynn turns to Dr. Drew for help with her depression, which has returned; and the newly engaged Maci receives another shock.
+          3:
+            title: Don't Panic
+            originally_available: 2016-08-28
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S06/03.jpg
+            summary: Airing at a special day and time ahead of the VMA's, Maci and Taylor find out she's further along in her unexpected pregnancy than they thought. Matt takes Amber to his hometown where she meets one of his family members.
+          4:
+            title: Animal Instincts
+            originally_available: 2016-09-05
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S06/04.jpg
+            summary: Maci and Taylor plan their wedding. Leah is hurt when Amber misses a visit with her. Farrah invites Simon to celebrate Easter with her family and then kicks him out due to his lack of enthusiasm.
+          5:
+            title: Hello, Goodbye
+            originally_available: 2016-09-12
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S06/05.jpg
+            summary: Tyler and Catelynn have an emotional goodbye as she heads to a treatment facility for her anxiety and depression. Maci and Taylor buy a bigger house to fit their growing needs.
+          6:
+            title: Second Guessing
+            originally_available: 2016-09-19
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S06/06.jpg
+            summary: Maci and Taylor question their decision to have their wedding too soon, while Farrah and Simon get some relationship advice from Dr. Jenn. Catelyn is homesick so Tyler and Nova visit her at the treatment facility.
+          7:
+            title: The Long Road Home
+            originally_available: 2016-09-26
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S06/07.jpg
+            summary: Maci's daughter Jayde turns one and is worried because Ryan isn't around for Bentley. Farrah makes the big move to Los Angeles, but continues to fight with Simon when he tries to help.
+          8:
+            title: Mother's Day
+            originally_available: 2016-10-03
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S06/08.jpg
+            summary: Maci and Taylor welcome their third child but still worry that Ryan isn't showing up enough for Bentley. Gary tries to co-parent with Amber but realizes there's still tension between them.
+          9:
+            title: The Tipping Point
+            originally_available: 2016-10-10
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S06/09.jpg
+            summary: Amber, who fears that she's developed a new addiction to food, consults a doctor about her weight; Farrah wants to open a frozen yogurt shop; Tyler worries that Catelynn has fallen back into bad habits; and Ryan leaves home after a fight with his dad.
+          10:
+            title: Lemons Into Lemonade
+            originally_available: 2016-10-17
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S06/10.jpg
+            summary: Amber and Gary prepare for Leah's first day of school; Catelynn struggles with her anxiety and depression; Ryan takes Bentley for the weekend, but Maci fears he hasn't changed; and Simon shows up for the grand opening of Farrah's frozen yogurt store.
+          11:
+            title: Surprise Surprise!
+            originally_available: 2016-10-24
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S06/11.jpg
+            summary: Amber and Matt try to put a stop to the tabloid rumors; Farrah deals with an errant employee; Tyler and Catelynn celebrate Butch's first year out of prison; Taylor and Bentley plan Maci's birthday.
+          12:
+            title: The Ties That Bind
+            originally_available: 2016-11-07
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S06/12.jpg
+            summary: Amber and Matt invite Matt's son to move in; Farrah visits Derek's family; Catelynn and Tyler want to celebrate their first anniversary; Maci has a bridal shower; Ryan tries to apologize to his father.
+          13:
+            title: Ginger's Last Binger
+            originally_available: 2016-11-14
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S06/13.jpg
+            summary: Farrah and her mother uncover old family wounds and get into a huge fight. Matt is offered the opportunity to write a book about his life, but he and Amber are distracted by the latest tabloid stories. Macy and Taylor have a celebration in Las Vegas and Catelynn considers buying a horse.
+          14:
+            title: Cray Gardens
+            originally_available: 2016-11-21
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S06/14.jpg
+            summary: Gary reluctantly asks Amber for help with Leah when Kristina has a family emergency. Maci gets to know Ryan’s new girlfriend better, while Catelynn and Tyler discover they’re still not ready to move into their new home.
+          15:
+            title: I Do!
+            originally_available: 2016-11-28
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S06/15.jpg
+            summary: Amber undergoes plastic surgery in an attempt to relieve her depression and negative self image issues, while Farrah and her mom try to reconcile their differences after an awkward encounter with Debra’s boyfriend.
+          16:
+            title: Check-Up With Dr. Drew, Pt. 1
+            originally_available: 2016-11-28
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S06/16.jpg
+            summary: Catelynn discusses her battles with depression and anxiety and when Amber gets upset over her battles with Farrah and Gary, she threatens to quit the show.
+          17:
+            title: Check-Up With Dr. Drew, Pt. 2
+            originally_available: 2016-12-05
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S06/17.jpg
+            summary: Dr. Drew discusses Maci's marriage and new baby, Amber storms the stage when Farrah insults Matt, and the moms band together to do something Dr. Drew never expected.
+          18:
+            title: A Fresh Start
+            originally_available: 2017-04-17 
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S06/18.jpg
+            summary: In the season opener, Maci and Ryan try to coordinate trick-or-treating with Bentley. Amber is excited about her new business venture, but is let down when Gary doesn't let Leah stay with her on a school night!
+          19:
+            title: Hello Again World!
+            originally_available: 2017-04-24
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S06/19.jpg
+            summary: Tyler is less optimistic than usual when his dad, Butch, is once again released from prison. Farrah and Simon consider the status of their relationship. Maci throws Bentley a surprise birthday party.
+          20:
+            title: Lil' Starburst
+            originally_available: 2017-05-01 
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S06/20.jpg
+            summary: Catelynn and Tyler celebrate Nova's birthday and consider having another baby, while Farrah makes a big decision about her and Sophia's future. Amber works with Gary to throw Leah a surprise birthday party.
+          21:
+            title: Blue Christmas
+            originally_available: 2017-05-07 
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S06/21.jpg
+            summary: Amber continues to be frustrated that she doesn't have Leah as much as she wants. Ryan's girlfriend encourages him to communicate more with Maci about Bentley's schedule. Cate surprises Tyler with a winter getaway.
+          22:
+            title: Let's Try To Get Along
+            originally_available: 2017-05-08
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S06/22.jpg
+            summary: Maci confides in Ryan's fiance MacKenzie about her co-parenting issues while Amber plans a fashion show to promote her online boutique. Catelynn and Tyler come to terms with their different parenting styles.
+          23:
+            title: The Forever Knot
+            originally_available: 2017-05-15
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S06/23.jpg
+            summary: Tyler decides to be more optimistic about Butch's recovery; Farrah questions her mom's relationship with her fiance; and Ryan's family finds out that Maci doesn't want Bentley going over to Jen and Larry's house.
+          24:
+            title: Viva Las Vegas
+            originally_available: 2017-05-22
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S06/24.jpg
+            summary: Maci is worried about Matt's extracurricular activities while Catelynn and Tyler start an online children's boutique. Farrah works on her relationship with her Mom through hypnotherapy while Amber and Matt 'almost' elope in Las Vegas!
+          25:
+            title: Making Waves
+            originally_available: 2017-05-29
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S06/25.jpg
+            summary: Amber, Maci, Catelynn and their significant others travel to Puerto Rico and Maci struggles with wanting to help Ryan overcome his issues. Farrah is invited to speak about her three businesses at SXSW.
+          26:
+            title: Love In La La Land
+            originally_available: 2017-06-05
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S06/26.jpg
+            summary: Maci and Taylor work on their marriage in counseling while Farrah goes on a date with Assaf, whom she picked on last week's aftershow. Gary asks Amber to help him surprise Leah with a new house.
+          27:
+            title: Friday the Thirteenth
+            originally_available: 2017-06-12
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S06/27.jpg
+            summary: Catelynn and Tyler sign Nova up for daycare while Maci throws a surprise birthday party for Taylor. Simon gets hypnotized to get over Farrah while Amber and Matt lock in their wedding venue.
+          28:
+            title: We Are Family
+            originally_available: 2017-06-19
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S06/28.jpg
+            summary: Amber celebrates Easter with Gary, but then is disappointed when another cheating scandal comes out about Matt. Catelynn and Tyler find their dream home while Farrah makes an effort to get to know her Mom's fiance.
+          29:
+            title: Truth Be Told
+            originally_available: 2017-06-26
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S06/29.jpg
+            summary: In the season finale, while on a family vacation in Key West, Farrah and her Mom's fiance David argue over their lack of respect for each other. Catelynn and Tyler's offer on their dream house is accepted while Maci tries to confront Ryan.
+          30:
+            title: Check-Up with Dr. Drew, Pt 1
+            originally_available: 2017-07-03
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S06/30.jpg
+            summary: In part one of the 'Teen Mom OG Finale Special', Amber lashes out about her troubled relationship with Matt and Maci faces some harsh truths about Matt's drug use.
+          31:
+            title: Check-Up with Dr. Drew, Pt 2
+            originally_available: 2017-07-10
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S06/31.jpg
+            summary: In part two of the "Teen Mom OG Finale Special," Farrah explains her dislike for her mom's fiance, and Catelynn opens up about how she and Tyler have dealt with Butch's relapse.
+# SEASON 7
+      7:
+        episodes: 
+          1:
+            title: Icing on the Cake of Lies
+            originally_available: 2017-11-27
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S07/01.jpg
+            summary: As season 7 opens, Amber loses her cool with Ryan’s wife. Maci wants Ryan to complete rehab or she’ll keep Bentley away. Catelynn worries about Tyler’s dad Butch since he’s off parole. Farrah celebrates her birthday in New York, while Amber calls off their engagement.
+          2:
+            title: This Is Going To End Badly
+            originally_available: 2017-12-04
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S07/02.jpg
+            summary: Amber leans on her family while she figures out what to do about Matt. Ryan completes rehab early and demands to see Bentley. Catelynn worries if she gets pregnant again she’ll have postpartum depression. Farrah looks for a home in Los Angeles.
+          3:
+            title: Too Shady
+            originally_available: 2017-12-04
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S07/03.jpg
+            summary: Farrah goes to Las Vegas for a girls trip and her ex-boyfriend Simon shows up. Catelynn and Tyler hurry to get everything ready for the launch of their children’s clothing line. Maci lets Bentley see Ryan on Father’s Day, while Amber kicks Matt out.
+          4:
+            title: System Overload
+            originally_available: 2017-12-11
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S07/04.jpg
+            summary: Maci wants Ryan to pass a drug test before he can see Bentley. Farrah travels abroad for work and leaves Sophia in Michael’s care. Catelynn and Tyler launch their kids clothing line but run into issues. Amber and Matt try to save their relationship.
+          5:
+            title: High Hopes
+            originally_available: 2017-12-18
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S07/05.jpg
+            summary: Farrah plans a family trip to Italy. Bentley starts third grade and Maci is still determined to keep him away from Ryan until he passes a drug test. Amber is depressed after breaking up with Matt. Catelynn and Tyler finally get a date to visit Carly.
+          6:
+            title: What a Ride
+            originally_available: 2018-01-01
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S07/06.jpg
+            summary: Amber is completely done with Matt and starts dating a new guy. Farrah visits Omaha and Sophia expresses her dislike for Deb’s fiancé, David. Taylor surprises Maci and takes her skydiving. Catelynn and Tyler finally get to see Carly.
+          7:
+            title: Runways, Rehab and Retail
+            originally_available: 2018-01-08
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S07/07.jpg
+            summary: Amber makes her first public appearance with her new boyfriend. Tyler struggles with Butch's drug use. Farrah and Sophia model at New York fashion week. Maci and Taylor take the next step for their clothing line. Ryan continues to stay clean.
+          8:
+            title: Oh Baby!
+            originally_available: 2018-01-15
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S07/08.jpg
+            summary: Catelynn removes her birth control and doesn’t tell Tyler. Farrah goes on a family vacation to Italy. Ryan and Mackenzie have a joint bachelor and bachelorette party. Maci learns Taylor is not invited to the wedding. Amber finds out she is pregnant.
+          9:
+            title: Let's Try Again
+            originally_available: 2018-01-22
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S07/09.jpg
+            summary: Farrah helps Michael plan his proposal. Catelynn freaks out at a photo shoot and Tyler is overwhelmed with renovations and launching the fall line. Maci and Taylor celebrate their one-year wedding anniversary. Amber is excited about her pregnancy.
+          10:
+            title: Fertile Myrtle
+            originally_available: 2018-01-29
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S07/10.jpg
+            summary: Amber shocks her whole family when she reveals she’s pregnant. Bentley turns 9 and Maci allows him to spend time with Ryan. Deb tries to persuade Sophia to go to her wedding. Catelynn secretly removed her IUD and has a big surprise for Tyler.
+          11:
+            title: Unconfuse Your Brain
+            originally_available: 2018-02-12
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S07/11.jpg
+            summary: Amber and Andrew have a disagreement; Ryan is furious at Maci when she shows up late for trick-or-treat; Farrah is shocked when she finds out who Debra invited to her wedding; Catelynn surprises her family with her pregnancy.
+          12:
+            title: Something Blue
+            originally_available: 2018-02-19
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S07/12.jpg
+            summary: Amber has big news for Leah; Farrah gets vaginal rejuvenation and lashes out at her producer; Catelynn spends quality time with Nova while Tyler gets emotional dropping Butch off at rehab.
+          13:
+            title: I'm Beautiful, I'm Smart, I'm Strong
+            originally_available: 2018-02-26
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S07/13.jpg
+            summary: Amber spends quality time with Leah; Gary gets a paternity test to determine if Jody is his father; Maci turns to a doctor for tips on managing her Polycystic Ovary Syndrome. Farrah gets a visit in Austin from executive producer Morgan.
+          14:
+            title: Choose Your Path
+            originally_available: 2018-03-12
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S07/14.jpg
+            summary: Tyler struggles to run his business and manage caring for Nova solo. Maci prepares to participate on another show. Amber gets the nursery ready. Gary receives paternity test results. Farrah and executive producer Morgan Freeman have a chat.
+          15:
+            title: Keep Chugging Away
+            originally_available: 2018-03-19
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S07/15.jpg
+            summary: Amber takes Leah on vacation to Florida. Taylor takes Bentley on a boys trip to Jacksonville to visit their new clothing warehouse. Mackenzie enrolls in college and talks about kids with Ryan. Tyler and Nova visit Catelynn.
+          16:
+            title: Friends In Need
+            originally_available: 2018-03-26
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S07/16.jpg
+            summary: Amber is angry at Gary and Christina for saying she's a bad mother; Tyler struggles to keep their clothing business up and running while dealing with his Dad and wife being in rehab; Maci visits Catelynn at her rehab facility.
+          17:
+            title: Time Will Tell
+            originally_available: 2018-04-02
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S07/17.jpg
+            summary: Maci and Taylor meet with an adoption counselor; Tyler and his sister Amber have an emotional reunion with their dad Butch when they visit him in rehab. Amber gives her cousin Krystal advice about co-parenting while Mackenzie and Ryan have big news.
+          18:
+            title: One Life to Live
+            originally_available: 2018-04-09
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S07/18.jpg
+            summary: Maci finds out from Bentley that Ryan and Mackenzie are expecting a baby. Amber is hurt when Leah chooses to sleepover at a friends house instead of spending time with her. Catelynn returns home but quickly admits herself again.
+          19:
+            title: Check-Up With Dr. Drew, Pt 1
+            originally_available: 2018-04-16
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S07/19.jpg
+            summary: Dr. Drew talks to Catelynn about her battle with depression and anxiety, and when Amber gets upset over her battles with Farrah and Gary, she threatens to quit the show
+          20:
+            title: Check-Up With Dr. Drew, Pt 2
+            originally_available: 2018-04-23
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S07/20.jpg
+            summary: Dr. Drew continues his discussion with Maci, Catelynn, Amber and for the last time Farrah, to break down the biggest season yet.
+          21:
+            title: Welcome to the Family
+            originally_available: 2018-10-01
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/placeholder.jpg
+            summary: Bristol returns home after a weekend away and has a heated argument with her husband. Cheyenne and Cory close co-parenting relationship causes issues with Cheyenne’s boyfriend Zach. Amber welcomes her son James.
+          22:
+            title: Unconditional Love
+            originally_available: 2018-10-08
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S07/22.jpg
+            summary: Cheyenne’s father finds out that her boyfriend Zach lives with her. Maci has an awkward handoff with Ryan’s mom, Jen, while Amber realizes that despite her joy as a new mom, she’s still struggling with depression!
+          23:
+            title: Suns Out Buns Out
+            originally_available: 2018-10-15
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S07/23.jpg
+            summary: Bristol tries to stay positive after Dakota moves all her stuff into the guest bedroom and Cheyenne causes a scene at her family's BBQ and misdirects her anger towards her boyfriend Zach. Amber goes to LA for a month.
+          24:
+            title: Making Amends
+            originally_available: 2018-10-22
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S07/24.jpg
+            summary: Bristol lets Tripp go to Alaska with his dad, Levi. Catelynn and Tyler visit Butch in rehab for the amends stage of his program. Gary and Kristina take Leah to visit Amber in LA. Maci finds out that Ryan was arrested.
+          25:
+            title: Mama Bear
+            originally_available: 2018-10-29
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S07/25.jpg
+            summary: Catelynn finds out that Tyler's sister, Amber, trashed their old house; Amber's brother travels to LA to meet baby James; Cheyenne and Cory anxiously await results from Ryder's doctor's appointment for her genetic disorder, VLCAD.
+          26:
+            title: Back to Square One
+            originally_available: 2018-11-05
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S07/26.jpg
+            summary: Catelynn and Tyler celebrate Carly's birthday, whom they placed for adoption nine years ago and receive disappointing news. Bentley starts the 4th grade while Jen and Larry are relieved when Ryan returns to rehab.
+          27:
+            title: New G's Meet the Old G's
+            originally_available: 2018-11-12
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S07/27.jpg
+            summary: All of the moms fly to New York for press week and it’s the first time Amber, Maci and Catelynn meet Cheyenne and Bristol. Meanwhile, Tyler visits Butch in his new sober living home in Austin.
+          28:
+            title: Roll With the Punches
+            originally_available: 2018-11-19
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S07/28.jpg
+            summary: Amber travels to LA for a charity boxing event and Andrew motivates her to step into the ring; Maci takes all the kids to Texas to visit Taylor's family.
+          29:
+            title: I Choose You
+            originally_available: 2018-11-26
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S07/29.jpg
+            summary: Catelynn and Tyler celebrate the gender reveal of their new baby but are still planning to live separately to work on their marriage; Amber continues to struggle with her depression while Gary gets a vasectomy.
+          30:
+            title: Modern Families
+            originally_available: 2018-12-03
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S07/30.jpg
+            summary: Mackenzie and Ryan welcome their first baby into the world, so Maci wants to make sure all the kids have a big, happy, blended family; Bristol feels guilty about Tripp's dwindling relationship with Dakota after the divorce.
+          31:
+            title: Mixed Feelings
+            originally_available: 2018-12-10
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S07/31.jpg
+            summary: Gary finally finds his father while Andrew tries to help Amber with her depression. Cory is jealous when Cheyenne gets attention from an ex-boyfriend. Tyler is eager to start the trial separation but Cate questions if he’ll want a divorce after.
+          32:
+            title: Eye to Eye
+            originally_available: 2018-12-17
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S07/32.jpg
+            summary: Catelynn visits Amber and when she returns home, Tyler moves out to start the trial separation. Bristol seeks advice from a PTSD counselor. Cheyenne and Cory hook up while Maci meets up with Jen and Larry to come up with a plan for when Ryan returns.
+          33:
+            title: Reunion, Pt 1
+            originally_available: 2018-12-24
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S07/33.jpg
+            summary: Maci, Catelynn, Amber, Bristol and Cheyenne sit down with Nessa and Dr. Drew for an uncensored discussion about all the biggest moments from this season of Teen Mom OG.
+          34:
+            title: Reunion, Pt 2
+            originally_available: 2018-12-31
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S07/34.jpg
+            summary: Dr. Drew and Nessa sit down with Amber as she meets Gary's biological father, sort through Bristol and Dakota's divorce, and catch up on Cheyenne and Cory's relationship.
+# SEASON 8
+      8:
+        episodes: 
+          1:
+            title: Walking on Eggshells
+            originally_available: 2019-06-10
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S08/01.jpg
+            summary: Catelynn and Tyler move back in together after a 30-day trial separation. Ryan returns home after rehab and wants to meet up with Maci. Cheyenne and Cory argue over his new girlfriend being around Ryder. Amber has an online feud with TM2's Jenelle.
+          2:
+            title: The Wind Picked Up
+            originally_available: 2019-06-10
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S08/02.jpg
+            summary: Maci struggles with how to tell Bentley that Ryan got arrested and is in jail. Cory makes his relationship with Taylor official, but when Ryder's genetic disorder puts her in the hospital, Cheyenne worries that Cory doesn't understand the gravity.
+          3:
+            title: Blessings Not Baggage
+            originally_available: 2019-06-17
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S08/03.jpg
+            summary: Catelynn gives birth to her 3rd daughter. Cheyenne starts dating someone new and it doesn't take long for Cory to find out. Maci worries that Maverick's stutter could be a symptom of something serious. Ryan's family continues to cope with him in jail.
+          4:
+            title: One Big Happy Family
+            originally_available: 2019-06-24
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S08/04.jpg
+            summary: Maci and Taylor have a TTM photoshoot debuting their toddler line, while Ryan's family prepares for his release from prison. Catelynn worries that Nova isn't adjusting to her new sister Vaeda, so decides to buy her a pony.
+          5:
+            title: Baby Fever
+            originally_available: 2019-07-01
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S08/05.jpg
+            summary: Ryan returns home after spending 90 days in jail and Maci is disappointed he doesn’t make more of an effort with Bentley. Cheyenne and Matt’s relationship is getting serious, but Cory is shocked when he finds out they want to have a baby.
+          6:
+            title: Momcation
+            originally_available: 2019-07-08
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S08/06.jpg
+            summary: The ladies take their first girls' trip together in 10 years to Florida; excited for a chance to be away, Catelynn breaks the news to Nova who doesn't take it well; Maci plans a birthday surprise for Amber at a drag show.
+          7:
+            title: Mother of a Mother's Day
+            originally_available: 2019-07-15
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S08/07.jpg
+            summary: Catelynn celebrates Mother's Day at home while Tyler visits his sister in Texas and discovers that Butch has relapsed; Maci goes to Washington to advocate for PCOS; Cheyenne is shocked at Cory's girlfriend's behavior.
+          8:
+            title: Don't Give Up
+            originally_available: 2019-07-22
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S08/08.jpg
+            summary: Amber and Gary discuss how to handle Leah’s panic attacks. Cheyenne questions Cory’s priorities when he goes on vacation with Taylor at the same time that his mom comes to town to visit. Maci throws Taylor a surprise 30th birthday party.
+          9:
+            title: Ready When You Are
+            originally_available: 2019-07-29
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S08/09.jpg
+            summary: As Maci comes to the end of her birth control, she suggests Taylor get a vasectomy. When social media explodes after Tyler goes out with friends in Arizona, Catelynn has a night out on the town with her girlfriends. Cheyenne goes to Baltimore.
+          10:
+            title: Fathers Day Follies
+            originally_available: 2019-08-05
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S08/10.jpg
+            summary: Maci and Taylor take the family to Atlanta for Bentley's baseball tournament and Ryan makes a surprise appearance; Cheyenne's father grills Matt about his unconditional love.
+          11:
+            title: Handle with Care
+            originally_available: 2019-08-12
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S08/11.jpg
+            summary: Amber feels she's at a breaking point with Andrew; Cheyenne takes a trip to wine country with Matt and Ryder to test out if he can handle parenting Ryder; Mackenzie tries to prepare for a fitness competition; Josh goes missing.
+          12:
+            title: The Weight of the World
+            originally_available: 2019-08-19
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S08/12.jpg
+            summary: Cheyenne confronts Cory’s girlfriend, Taylor, about her past racist tweets, while Maci takes Bentley to see a counselor to help him process everything that has gone on with Ryan. Mackenzie gets devastating news about her mom’s cancer.
+          13:
+            title: Reunion, Pt 1
+            originally_available: 2019-09-02
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S08/13.jpg
+            summary: Catelynn, Cheyenne, Maci and other special guests join hosts Nessa and Dr. Drew for an emotional look back at all the joy, changes and hardships of an unforgettable season.
+          14:
+            title: Reunion, Pt 2
+            originally_available: 2019-09-03
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S08/14.jpg
+            summary: Ten years after the 16 and Pregnant premiere, Nessa and Dr. Drew sit down with Maci, Cheyenne, Catelynn and Amber to discuss co-parenting, sobriety and mental health.
+          15:
+            title: Decisions, Decisions
+            originally_available: 2020-03-17
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S08/15.jpg
+            summary: Amber is released from jail. Mackenzie finds out that Josh cheated on her. Maci's son can't go to Jagger's party. Cheyenne's boyfriend moves to LA, but his housing puts strain on their relationship. Catelynn has a surprise for her and Tyler's anniversary.
+          16:
+            title: Every-Other-Day Mom
+            originally_available: 2020-03-24
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S08/16.jpg
+            summary: Catelynn, Maci and Cheyenne visit Amber in Indiana to support her in her first court hearing. After coming back from Indiana, Catelynn visits her psychiatrist to inquire about getting off the medications that control her panic attacks and depression. Maci lets Bentley go golfing with Ryan, while Cory tells Cheyenne her priorities are not on Ryder. In the midst of their separation, Mackenzie throws a birthday party for Gannon, making an awkward reunion for her and Josh.
+          17:
+            title: Not Going Down Without a Fight
+            originally_available: 2020-03-31
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S08/17.jpg
+            summary: Cheyenne throws her first fundraising event for VLCAD support; Amber's custody battle takes a turn when Andrew petitions to move James; Maci strives to support PCOS Awareness Month; Mackenzie tries to file for divorce.
+          18:
+            title: To The Rescue
+            originally_available: 2020-04-07
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S08/18.jpg
+            summary: Gary takes Amber to anger management class after audio is leaked from a dispute; Catelynn visits her psychiatrist after listening to Amber's audio leaks; Cheyenne decides to start an event planning business.
+          19:
+            title: This Has All Been Hell
+            originally_available: 2020-04-14
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S08/19.jpg
+            summary: Cheyenne questions the longevity of her & Matt's relationship. To Maci’s surprise, Ryan shows up to Bentley's birthday party. Amber accepts a plea deal and avoids serving jail time. Catelynn & Tyler try to decide if they should let a friend move in.
+          20:
+            title: Walk Into The Flame
+            originally_available: 2020-04-21
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S08/20.jpg
+            summary: Amber is shocked when home security footage leaks from the night she was arrested. Andrew decides to share his side of the story. Catelynn confronts her mom about the trauma she experienced when she placed Carly for adoption.
+          21:
+            title: Goodbye For Now
+            originally_available: 2020-04-28
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S08/21.jpg
+            summary: Amber starts a new romance, while Catelynn considers starting a career as a vet tech. Maci is content co-parenting with Jen, Ryan's mom, but Ryan is frustrated. Cheyenne ends her relationship with Matt, while Corey leaves to compete on The Challenge.
+          22:
+            title: I Am Not Okay
+            originally_available: 2020-05-05
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S08/22.jpg
+            summary: Amber’s new boyfriend comes to visit. Maci contemplates sending Bentley to a private school. Cheyenne enrolls Ryder in a preschool prep class while Cory is away competing on The Challenge. Catelynn and Tyler catch Ashley in a lie.
+          23:
+            title: Hanging On By a Thread
+            originally_available: 2020-05-12
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S08/23.jpg
+            summary: Amber is suspicious that Dimitri leaked their relationship to the media. Bentley becomes a big brother to Ryan’s baby. Still working through her grief, Mackenzie takes a trip to FL. Ryder develops a fever forcing Cheyenne to rush her to the hospital.
+          24:
+            title: Time For a Talk
+            originally_available: 2020-05-19
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S08/24.jpg
+            summary: Amber seeks advice from her psychiatrist when she begins to pull away from Dimitri. Catelynn finds an organic baby food company and travels to NY to consider a partnership. Cheyenne is nervous to let Cory know that Ryder was hospitalized.
+          25:
+            title: Piece The Pieces Together
+            originally_available: 2020-05-26
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S08/25.jpg
+            summary: As Cory and Taylor prepare for their gender reveal party, Cheyenne worries that Cory’s attention might shift once the baby is born. Catelynn and Tyler celebrate Vaeda’s 1st birthday. Amber’s brother visits and questions Dimitri’s intentions.
+          26:
+            title: In a Perfect World
+            originally_available: 2020-06-20
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S08/26.jpg
+            summary: Cheyenne confronts Cory about his priorities shifting away from Ryder. Maci makes a difficult decision on whether to extend the Order of Protection on Ryan. Mackenzie plans a special day to celebrate her late mother’s birthday.
+# NO SEASON 8B REUNION SPECIALS DUE TO COVID RESTRICTIONS
+# SEASON 9
+      9:
+        episodes: 
+          1:
+            title: Surviving Together
+            originally_available: 2021-01-26
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S09/01.jpg
+            summary: In the midst of covid, Amber struggles with her long distance relationship with Dimitri when he becomes possessive. Maci puts her personal feelings aside when Bentley wants to go to therapy with Ryan.
+          2:
+            title: Just Do You
+            originally_available: 2021-02-02
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S09/02.jpg
+            summary: Amber is shocked when Gary asks her to move onto his property. Catelynn pursues a career in microblading while Mackenzie accepts a job opportunity in Florida. Bentley starts therapy and Maci is heartbroken when she finds out he feels neglected.
+          3:
+            title: Patience is Patience
+            originally_available: 2021-02-09
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S09/03.jpg
+            summary: When Mackenzie’s father needs to have quadruple bypass surgery, her plans to move to Florida are put on pause. Maci worries about Bentley’s performance in school while Catelynn and Tyler contemplate having another child.
+          4:
+            title: Lose My Mind
+            originally_available: 2021-02-16
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S09/04.jpg
+            summary: Maci helps Bentley decide if he should go to his brother, Jagger’s birthday since Ryan will be there. Catelynn and Tyler work on discipling Nova while Amber makes a decision about living on Gary’s property.
+          5:
+            title: Orchard of Dreams
+            originally_available: 2021-02-23
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S09/05.jpg
+            summary: Catelynn believes she’s pregnant while Maci deals with a change in venue for Jagger’s birthday party which puts Bentley in an awkward position. Cheyenne considers buying a new house with Zach.
+          6:
+            title: Hearts on Fire
+            originally_available: 2021-03-02
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S09/06.jpg
+            summary: Amber deals with online trolls who criticize her weight while Catelynn receives her microblading certification and looks into opening her own studio. To raise awareness during PCOS month, Maci accepts a challenge from Taylor.
+          7:
+            title: In My Bubble
+            originally_available: 2021-03-09
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S09/07.jpg
+            summary: After discovering that a staff member at Nova’s old daycare is a sex offender, Catelynn and Tyler decide to talk to Nova about protecting herself. Mackenzie struggles starting her new job in Florida and taking care of the kids without Josh.
+          8:
+            title: Better Days Are Coming
+            originally_available: 2021-03-16
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S09/08.jpg
+            summary: Cheyenne and Zach’s families pressure them to get married while Mackenzie and Josh give their marriage another chance in Florida. For the first time ever, Catelynn and Tyler decide to vote in the presidential election.
+          9:
+            title: Where Do We Go From Here
+            originally_available: 2021-03-23
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S09/09.jpg
+            summary: Cheyenne shocks Cory with her pregnancy news. Amber struggles when her dog’s health deteriorates and Catelynn and Tyler are concerned that Nova might have a learning disability. Mackenzie celebrates her 26th birthday.
+          10:
+            title: Half-Wounded Parent
+            originally_available: 2021-03-30
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S09/10.jpg
+            summary: As Maci copes with the aftermath of the shooting, Cheyenne uses her platform to discuss racial injustice. Mackenzie’s friends come to visit her in Florida and question her rekindled marriage. Catelynn and Tyler get news that his sister has relapsed.
+          11:
+            title: The Waiting Game
+            originally_available: 2021-04-06
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S09/11.jpg
+            summary: Cheyenne is nervous for the results of Zach’s genetic test that will determine whether their unborn child will have vlcad. After not going to Leah’s birthday party, Amber tries to repair the damage caused by her absence.
+          12:
+            title: Light the Way
+            originally_available: 2021-04-13
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S09/12.jpg
+            summary: Cheyenne and Zach have a gender reveal party and finally get the results of Zach’s genetic test. Maci is shocked to learn that Ryan had a session with Bentley’s therapist. Mackenzie pushes Josh to move to Florida permanently while Amber seeks advice.
+          13:
+            title: Reunion, Pt 1
+            originally_available: 2021-04-20
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S09/13.jpg
+            summary: Catelynn reveals a big surprise and Cheyenne discusses intimate details about her relationship with Zach. Amber and Gary’s co-parenting relationship deteriorates even further while Maci and Taylor’s conversation with Jen takes a dramatic turn.
+          14:
+            title: Reunion, Pt 2
+            originally_available: 2021-04-27
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S09/14.jpg
+            summary: Maci and Taylor’s argument with Ryan’s parents intensifies while Mackenzie reflects on her tumultuous year. Kristina joins Gary to give her side of the story & Cate discusses her pregnancy. Cory, Tyler, Gary, Josh & Taylor give Zach parenting advice.
+          15:
+            title: Don't Give Up on Me
+            originally_available: 2021-09-07
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/placeholder.jpg
+            summary: Cheyenne and Zach have a blowup after a doctor's appointment, Catelynn and Tyler take a test to determine the sex of their next child, and Mackenzie stages a health intervention for her dad.
+          16:
+            title: A Day Late and a Dollar Short
+            originally_available: 2021-09-14
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S09/16.jpg
+            summary: Catelynn is wary of the new treatment Tyler wants to try for his bipolar disorder, Amber wants to go to therapy with Leah, and Cheyenne gets upset at Cory for putting work ahead of Ryder.
+          17:
+            title: Agree to Disagree
+            originally_available: 2021-09-21
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S09/17.jpg
+            summary: Amber wants to pursue a college degree in Psychology. Mackenzie and Josh seek professional help for Broncs. Catelynn tries to understand Tyler’s ketamine treatment. Cheyenne is devastated when her sister decides to move to DC.
+          18:
+            title: Flying by the Seat of Our Pants
+            originally_available: 2021-09-28
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S09/18.jpg
+            summary: Still hoping to reconnect with Leah, Amber sends her an emotional video message. Maci and Taylor worry that Maverick might be held back from going to kindergarten. While on vacation in Florida, Catelynn and Tyler meet up with Mackenzie and Josh.
+          19:
+            title: The Innermost Inside
+            originally_available: 2021-10-05
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S09/19.jpg
+            summary: Catelynn takes her microblading career to the next level and starts taking on clients. Gary finally invites Amber over to see Leah. Mackenzie contemplates if Broncs should repeat Pre-Kindergarten. Maci and Taylor divide their time between the kids’ sports.
+          20:
+            title: Proceed with Caution
+            originally_available: 2021-10-12
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S09/20.jpg
+            summary: Maci has a panic attack when she drives by the gas station where the shooting took place. Amber reveals that she is bisexual. Catelynn finds out that her brother has a girlfriend, so she talks to him about safe sex.
+          21:
+            title: Balancing Act
+            originally_available: 2021-10-19
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S09/21.jpg
+            summary: Catelynn considers having Nova in the room when she gives birth. Zach decides to pursue a real estate license but Cheyenne is concerned he will not be able to balance a newborn with a new career. Mackenzie reaches out to a parenting coordinator.
+          22:
+            title: The Here and Now
+            originally_available: 2021-10-26
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S09/22.jpg
+            summary: Maci attempts to explain her PTSD to Bentley while Mackenzie and Josh get advice from a parenting coordinator. Catelynn and Tyler try to wean Vaeda off her pacifier before the new baby arrives.
+          23:
+            title: Just Be Present
+            originally_available: 2021-11-02
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S09/23.jpg
+            summary: Catelynn & Tyler explain Carly’s adoption to Nova. Cheyenne finds out she will likely be induced for the safety of her baby. Maci makes healthy lifestyle changes to help manage her PCOS. Gary invites Amber over and their reunion does not go as planned.
+          24:
+            title: Helpful, Not Helpless
+            originally_available: 2021-11-09
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S09/24.jpg
+            summary: Mackenzie struggles to keep her blood sugar under control and lashes out at Josh. Gary reaches out to a parenting coach for advice on Leah and Amber’s relationship. Cheyenne goes into the early stages of labor. Maci wants Taylor to see a therapist.
+          25:
+            title: Home Is Where the Heart Is
+            originally_available: 2021-11-16
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S09/25.jpg
+            summary: Mackenzie's father visits, Catelynn and Tyler long for alone time, Cheyenne gives birth to Ace, Maci and Taylor butt heads, and Gary has a breakthrough about therapy.
+          26:
+            title: Give Yourself Some Grace
+            originally_available: 2021-11-23
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S09/26.jpg
+            summary: Mackenzie's father makes an offer, Cheyenne explores postpartum self-care, Maci and Taylor plan a getaway, Gary attends a therapy session with Amber, and Catelynn gives birth.
+          27:
+            title: Reunion, Pt 1
+            originally_available: 2021-11-30
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S09/27.jpg
+            summary: In Part 1 of the Reunion, Maci shares dating advice with Y&P’s Brianna while Cate & Ty discuss Rachel’s childhood trauma. Amber finds out information that sends her reeling while Cheyenne & Cory question if they are doing enough to make Ryder feel stable.
+          28:
+            title: Reunion, Pt 2
+            originally_available: 2021-12-07
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Teen-Mom-OG/S09/28.jpg
+            summary: Farrah introduces a clip from the upcoming series Teen Mom Family Reunion. Maci gets emotional discussing her journey on the show while Cheyenne gives words of wisdom to Y&P’s Kayla. Mackenzie explains why she is so protective of her family.
