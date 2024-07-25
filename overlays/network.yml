@@ -28,10 +28,10 @@ external_templates:
             git_<<key>>.exists: false
             repo.exists: false
             repo_<<key>>.exists: false
-            value: overlays/network-top-left/<<key>>
+            value: https://raw.githubusercontent.com/iverbyou/kometa-config/main/overlays/network-top-left/<<key>>.png
     allowed_libraries: show
     group: networks
-    back_color: "#000000"
+    back_color: 00
     back_radius: 30
     back_width: 1000
     back_height: 1500
