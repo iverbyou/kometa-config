@@ -56,9 +56,7 @@ dynamic_collections:
     - CBC Television
     - Cbeebies
     - CBS
-    - Channel 3
     - Channel 4
-    - Channel 5
     - Cinemax
     - CNN
     - Comedy Central
@@ -91,9 +89,11 @@ dynamic_collections:
     - Investigation Discovery
     - ION Television
     - ITV1
+    - ITVX
     - Kids WB
     - Lifetime
     - Logo
+    - Magnolia Network
     - MasterClass
     - Max
     - MGM+
@@ -128,6 +128,7 @@ dynamic_collections:
     - TNT
     - Travel Channel
     - truTV
+    - TV Land
     - tv asahi
     - Univision
     - UPN
@@ -252,7 +253,6 @@ dynamic_collections:
       ITVX:
         - ITV
         - ITV Encore
-        - ITV1
         - ITV2
         - ITV3
         - ITV4
