@@ -5,7 +5,7 @@ overlays:
 
   Weekly:
     overlay:
-      url: https://raw.githubusercontent.com/iverbyou/kometa-config/main/overlays/show-status/weeklynewep.png
+      url: https://raw.githubusercontent.com/iverbyou/kometa-config/main/overlays/show-status/airingnewseason.png
       name: airing
       group: STATUS
       weight: 900
