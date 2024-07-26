@@ -28,13 +28,14 @@ external_templates:
             git_<<key>>.exists: false
             repo.exists: false
             repo_<<key>>.exists: false
-            value: https://raw.githubusercontent.com/iverbyou/kometa-config/main/overlays/network-top-left/<<key>>.png
+            value: network/<<style>>/<<key>>
     allowed_libraries: show
     group: networks
     back_color: 00
     back_radius: 30
     back_width: 1000
     back_height: 1500
+    url: https://raw.githubusercontent.com/iverbyou/kometa-config/main/overlays/network-top-left/<<key>>.png
 
 templates:
   networks:
@@ -286,7 +287,7 @@ overlays:
 
   ITVX:
     variables: { weight: 10}
-    template: [name: standard, {name: networks, search: [ITV, ITV Encore, ITV2, ITV3, ITV4, ITVBe]}]
+    template: [name: standard, {name: networks, search: [ITVX, ITV, ITV Encore, ITV2, ITV3, ITV4, ITVBe]}]
 
   Kids WB:
     variables: { weight: 10}
@@ -426,7 +427,7 @@ overlays:
 
   TLC:
     variables: { weight: 10}
-    template: [name: standard, name: networks]
+    template: [name: standard, {name: networks, search: [TLC, TLC Go]}]
 
   TNT:
     variables: { weight: 10}
