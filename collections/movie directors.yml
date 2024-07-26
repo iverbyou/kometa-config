@@ -1,0 +1,26 @@
+######################################################
+#                     DIRECTORS                      #
+######################################################
+templates:
+  Director:
+    sort_title: +03_<<collection_name>>
+    tmdb_director_details: <<tmdb>>
+    url_poster: https://github.com/iverbyou/kometa-config/blob/main/assets/director/<<collection_name>>.jpg
+    collection_mode: hide
+    collection_order: release.desc
+    sync_mode: sync
+    schedule: weekly
+
+collections:
+  Christopher Nolan:
+    template: {name: Director, tmdb: 525}
+  David Fincher:
+    template: {name: Director, tmdb: 7467}
+  M. Night Shyamalan:
+    template: {name: Director, tmdb: 11614}
+  Steven Spielberg:
+    template: {name: Director, tmdb: 488}
+  Tim Burton:
+    template: {name: Director, tmdb: 510}
+  Quentin Tarantino:
+    template: {name: Director, tmdb: 138}
