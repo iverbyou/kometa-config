@@ -4,6 +4,7 @@
 collections:
 
   Shows That Ended:
+    plex_all: true
     filters:
       tmdb_status: ended
     item_label: "Status: Ended"
@@ -11,6 +12,7 @@ collections:
     sync_mode: sync
 
   Canceled Shows:
+    plex_all: true
     filters:
       tmdb_status: canceled
     item_label: "Status: Canceled"
