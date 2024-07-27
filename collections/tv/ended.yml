@@ -1,12 +1,31 @@
 ######################################################
-#              Labels Series that Ended              #
+#             Labels Series with Status              #
 ######################################################
 collections:
 
-  Ended or Canceled:
-    sort_title: 01_<<collection_name>>
-    smart_label: random
-    collection_mode: hide
-    summary: TV shows that aired their series finale and have ended or were  cancelled.
+  Shows That Ended:
     filters:
-      tmdb_status: ended, canceled
+      tmdb_status: ended
+    item_label: "Status: Ended"
+    build_collection: false
+    sync_mode: sync
+
+  Canceled Shows:
+    filters:
+      tmdb_status: canceled
+    item_label: "Status: Canceled"
+    build_collection: false
+    sync_mode: sync
+
+
+# EXAMPLE FOR COLLECTION
+#  Shows That Ended:
+#    sort_title: 01_<<collection_name>>
+#    item_label: "Status: Ended"
+#    filters:
+#      tmdb_status: ended, canceled
+#    summary: TV shows that aired their series finale and have ended.
+#    build_collection: true
+#    collection_mode: hide
+#    collection_order: release.desc
+#    sync_mode: sync
