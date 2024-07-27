@@ -5,7 +5,7 @@ templates:
   Director:
     sort_title: +03_<<collection_name>>
     tmdb_director_details: <<tmdb>>
-    url_poster: https://github.com/iverbyou/kometa-config/blob/main/assets/director/<<collection_name>>.jpg
+    url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/director/<<collection_name>>.jpg
     collection_mode: hide
     collection_order: release.desc
     sync_mode: sync
