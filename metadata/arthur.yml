@@ -50,44 +50,83 @@ metadata:
             url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S01/07.jpg
             originally_available: 
             summary: 
+      20:
+        summary: In the twentieth season of this beloved animated children’s series, Arthur, Buster and Brain are worried when Mr. Ratburn isn't acting like himself! Then D.W. gets jealous when Grandma Thora becomes the most popular babysitter in town. Plus, Buster tells the story of a missing cereal box on his all-new podcast. Will he be able to find the thief--and in the process--the truth?
+        episodes:
+          1:
+            title: "Buster's Second Chance / Arthur and the Whole Truth"
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S01/01.jpg
+            originally_available: 2016-10-10
+            summary: With the help of a little time travel, Buster turns back the clock to see what his life would be like if he were a genius. / Arthur isn't happy when he discovers that Buster has been telling him some white lies, just to spare his feelings.
+          2:
+            title: "Fern's Flights of Fancy / Cereal"
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S01/01.jpg
+            originally_available: 2016-10-11
+            summary: Will Fern give up her dreams of being a writer just because of one silly rejection? This is one case George might have to solve alone. / Buster tells the story of a missing cereal box on his all-new podcast. Will he be able to find the thief – and in the process – the truth?
+          3:
+            title: "He Said, He Said / Bunny Trouble"
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S01/01.jpg
+            originally_available: 2016-10-12
+            summary: A special episode of Bionic Bunny is interrupted, and Arthur, Buster, and George try to remember what comes next. But Carl is the only one who can straighten out the story. / D.W. is excited to be taking care of the class bunny, Larry. But when Larry is feeling adventurous and wanders off, it’s up to Ladonna the “Bunny Whisperer” to help get him back.
+          4:
+            title: "Bud's Knotty Problem / That's MY Grandma"
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S01/04.jpg
+            originally_available: 2016-10-13
+            summary: When Bud falls in love with a snazzy new pair of boots, he might face his toughest adventure yet – learning to tie his shoes. / D.W. gets jealous when Grandma Thora becomes the most popular babysitter in town.
+          5:
+            title: "Lend Me Your Ear / The Butler Did It"
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S01/05.jpg
+            originally_available: 2017-05-30
+            summary: Arthur, Buster, and Brain are worried when Mr. Ratburn isn’t acting like himself. He’s always pleased to see them… so what has made him change his tune? / When Mr. Crosswire gets a robot butler for Father’s Day, Muffy fears Bailey may be replaced.
+          6:
+            title: "Prunella's Tent of Portent / Mutiny on the Pitch"
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S01/06.jpg
+            originally_available: 2017-05-31
+            summary: At the Elwood City Picnic, Prunella pretends she can see the future at her fortune telling booth. But her best friend, Marina, doubts her mystical powers. / The Lakewood Elementary soccer team has had enough of Francine’s bossy behavior. To show the team how much they need her, Francine gives up her post to the most unlikely teammate… Buster!
+          7:
+            title: "The Hallway Minotaur / Ladonna's Like List"
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S01/07.jpg
+            originally_available: 2017-06-01
+            summary: Attention Lakewood Elementary! There’s a new sheriff—er, hallway monitor—in town, and his name is George Lundgren. / Ladonna Compson is friendly, funny, and full of personality. Everyone likes her! At least, that’s what she thought…
+      
       21:
         summary: It’s time for exciting adventures in Elwood City with Arthur and his friends! Watch as Binky surprises his classmates by scoring an “A” on a test, Sue Ellen tries to save the local library from closing before it’s too late, and much more!
         episodes:
           1:
             title: "Binky's "A" Game / Brain and the Time Capsule"
             url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S21/01.jpg
-            originally_available: 2017-10-13
-            summary: Binky’s ‘A’ Game / Brain and the Time Capsule- When Binky gets an “A” on a test, Muffy and Francine are convinced he cheated. Then Brain makes a time capsule and gets overwhelmed by people asking to have their special belongings included. Will he make room for his friends?
+            originally_available: 2017-10-24
+            summary: When Binky gets an “A” on a test, Muffy and Francine are convinced he cheated. Then Brain makes a time capsule and gets overwhelmed by people asking to have their special belongings included. Will he make room for his friends?
           2:
             title: "The Master Builders, Part 1 & 2"
             url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S21/02.jpg
             originally_available: 2017-10-24
-            summary: The Master Builders, Parts 1 and 2- Buster struggles to build a birdhouse that will save the community garden from pests, while Muffy and Francine design a cat toy that they think will really change the pet toy game.
+            summary: Buster struggles to build a birdhouse that will save the community garden from pests, while Muffy and Francine design a cat toy that they think will really change the pet toy game.
           3:
             title: "Francine and the Soccer Spy / Sue Ellen and the Last Page"
             url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S21/03.jpg
-            originally_available: 
-            summary: 
+            originally_available: 2017-10-24
+            summary: When Ladonna befriends a new member of the soccer team, Francine becomes convinced she is leaking secret team info. The City Council has voted to close the Elwood City Library! Can Sue Ellen save the library before it’s too late?
           4:
             title: "Muffy Misses Out / Arthur Takes a Stand"
             url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S21/04.jpg
-            originally_available: 
-            summary: 
+            originally_available: 2018-02-12
+            summary: Muffy worries that her friends don’t need her anymore when they plan a successful bake sale without her. Arthur thinks Mrs. MacGrady is being treated unfairly, so he decides the best way to take a stand is to take a seat.
           5:
             title: "Take a Hike, Molly / Slink's Special Talent"
             url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S21/05.jpg
-            originally_available: 
-            summary: 
+            originally_available: 2018-02-13
+            summary: When the Tough Customers go on hike in the woods, Molly makes a few mistakes and has to apologize…but she refuses to! When Rattles takes over Slink’s paper route, Slink is determined to prove himself and earn his job back.
           6:
             title: "The Lost Dinosaur / The Princess Problem"
             url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S21/06.jpg
-            originally_available: 
-            summary: 
+            originally_available: 2018-02-14
+            summary: It’s pretty hard to lose a dinosaur, but Rapty is missing! Can Bud be brave without his imaginary friend? D.W. loves the Princess Platoon series until she realizes that it doesn’t represent everyone.
           7:
             title: "Invasion of the Soccer Fans / Pal and the Big Itch"
             url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S21/07.jpg
-            originally_available: 
-            summary: 
+            originally_available: 2018-02-15
+            summary: Kate appears to be hypnotized by the soccer game on the television! Can Pal, Amigo, and Killer snap her out of her trance? When Pal has to wear a cone, he takes advantage of his friends’ kindness, but the decision comes back to bite him.
             
       22:
         summary: What is a community? Learn about the people, places, and things that make a community special, and learn what it takes to keep a community strong! Watch fun-filled tales filled with open-mindedness, compromise, and compassion.
@@ -95,50 +134,50 @@ metadata:
           1:
             title: "Mr. Ratburn & The Special Someone / The Feud"
             url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S01/01.jpg
-            originally_available: 2019-05-12
+            originally_available: 2019-05-13
             summary: Mr. Ratburn is getting married! Arthur can’t believe it. Teachers don’t have lives outside of school…do they? And Arthur and Buster get into an argument over a video game and pretty soon the entire third grade class chooses sides.
           2:
             title: "When the Rivals Came to Roost / The Longest Eleven Minutes"
             url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S01/01.jpg
-            originally_available: 2019-05-13
+            originally_available: 2019-05-14
             summary: When Mighty Mountain’s school gets flooded, the Lakewood Elementary students have to share everything with them! The Internet is out! How will Muffy post to her blog?! How will Buster research aliens?! Looks like the most boring day ever.
           3:
             title: "Muffy’s House Guests / Binky Can’t Always Get What He Wants"
             url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S01/01.jpg
-            originally_available: 2019-05-14
+            originally_available: 2019-05-15
             summary: Muffy is terrified when peregrine falcons build a nest right outside her bedroom window. Can her friends help her cure her ornithophobia? Binky gets cast in a TV commercial and he’s certain his career as a superstar has begun.
           4:
             title: "Muffy’s Car Campaign / Truth or Poll"
             url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S01/01.jpg
-            originally_available: 2019-05-15
+            originally_available: 2019-05-16
             summary: Francine rallies the troops around a petition to help Lakewood Elementary protect the environment. Binky is convinced Mr. Ratburn’s math test was too hard, so Brain suggests he conduct a poll to find out what the rest of the class thinks.
       
       23:
         summary: It’s time for fun-filled adventures in Elwood City! Watch as Buster’s uncle Bob visits and tells him a spooky story, the third grade class puts on a play, Ladonna discovers the army is transferring her dad to Oregon and much more!
         episodes:
           1:
-            title: "Fright Night/Citizen Cheikh"
+            title: "Fright Night / Citizen Cheikh"
             url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S23/01.jpg
-            originally_available: 2019-10-13
+            originally_available: 2019-10-14
             summary: Buster’s Uncle Bob – portrayed by special guest R.L. Stine – comes to visit and tells Buster a spooky bedtime story. Then, Cheikh learns that he and his family will become American citizens!
           2:
-            title: "When Duty Calls – Parts 1 & 2"
+            title: "When Duty Calls, Parts 1 & 2"
             url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S23/01.jpg
             originally_available: 2019-10-15
             summary: Ladonna finds out the Army is transferring her dad to Oregon, and the whole Compson family is moving again. Fern and the others can tell Ladonna is upset, but don’t know how to help. What can they do to make the transition easier?
           3:
-            title: "The Pea and the Princess/D.W. and Dr. Whosit"
+            title: "The Pea and the Princess / D.W. and Dr. Whosit"
             url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S23/01.jpg
-            originally_available: 2019-10-14
+            originally_available: 2019-10-16
             summary: The 3rd grade class is putting on a production of “The Princess and the Pea,” and Prunella is at the helm as director! Then, Mom and Dad tell D.W. she’s too young to watch a new television show that everyone is talking about.
 
       24:
         summary: George creates a piece of art for the country-wide art show with the help of guest artist Kevin Sampson! Then, Arthur gets angry over a pair of sneakers and must learn how to control his temper. Plus, when Mrs. MacGrady is diagnosed with cancer, Arthur and his friends all react differently to the news. The kids must learn how to come together to help support each other and Mrs. MacGrady.
         episodes:
           1:
-            title: "George Scraps His Sculpture/Arthur's Big Meltdown"
+            title: "George Scraps His Sculpture / Arthur's Big Meltdown"
             url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S24/01.jpg
-            originally_available: 2021-03-07
+            originally_available: 2021-03-10
             summary: George creates a piece of art for the county-wide art show with the help of guest artist Kevin Sampson. Then, Arthur must learn how to control his temper after getting angry over a pair of sneakers! Can he learn how to calm down in tough situations?
           2:
             title: "The Great MacGrady, Parts 1 & 2"
@@ -146,7 +185,7 @@ metadata:
             originally_available: 2021-03-08
             summary: When Mrs. MacGrady is diagnosed with cancer, Arthur and his friends all react differently to the news. The kids must learn how to come together to help support each other and Mrs. MacGrady.
           3:
-            title: "D.W.'s New Best Friend/Freaky Tuesday"
+            title: "D.W.'s New Best Friend / Freaky Tuesday"
             url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S24/01.jpg
             originally_available: 2021-03-09
             summary: D.W. meets 13-year-old Hana, who is much older and totally cool! Is Hana D.W's new BFF? Then, Buster is convinced teachers have it easy. Too bad he can’t put himself in Mr. Ratburn’s shoes to find out what it’s really like to be a teacher… Or can he?
@@ -155,22 +194,22 @@ metadata:
         summary: Celebrate 25 years of Arthur! Arthur and his friends solve a mystery, see a silent movie, find out what it’s like to be a reporter, learn how to help a grieving friend and go on a family vacation! Plus, get a glimpse at what’s in store in the future for a grown-up Arthur and the rest of these beloved characters!
         episodes:
           1:
-            title: "Binky Wrestles with a Story/All Will Be Revealed"
+            title: "Binky Wrestles with a Story / All Will Be Revealed"
             url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S25/01.jpg
             originally_available: 2022-02-20
             summary: Binky spends the day with Bitzi Baxter and learns what it's like to be a news reporter. Then, D.W., Bud, and Rapty set out to solve the mystery of what really happened to D.W.'s snowball.
           2:
-            title: "Making Conversation/A Cloudy Day"
+            title: "Making Conversation / A Cloudy Day"
             url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S25/02.jpg
             originally_available: 2022-02-20
             summary: Talking to adults makes George want to hide under a table! When he learns he must go to a grown-up party, he turns to his friends for help. Then, Arthur and his friends learn that old silent films can be just as much fun as the movies they’re used to.
           3:
-            title: "Listen Up!/Arthur's New Old Vacation"
+            title: "Listen Up! / Arthur's New Old Vacation"
             url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S25/03.jpg
             originally_available: 2022-02-20
             summary: When Francine's Bubbe passes away, Muffy tries to understand how she can help her friend. Then, when Arthur's family goes on the same vacation they take every year, he and Buster try to make it more exciting.
           4:
-            title: "Blabbermouth/All Grown Up"
+            title: "Blabbermouth / All Grown Up"
             url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S25/04.jpg
             originally_available: 2022-02-20
             summary: Buster is hurt when he learns his friends don't trust him to keep a secret. Then, the gang finds a mysterious fortune telling game at the library and gets a hint of what their futures could hold.
