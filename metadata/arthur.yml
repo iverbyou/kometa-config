@@ -19,6 +19,35 @@ metadata:
             url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S01/01.jpg
             originally_available: 
             summary: 
+          2:
+            title: ""
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S01/01.jpg
+            originally_available: 
+            summary: 
+          3:
+            title: ""
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S01/01.jpg
+            originally_available: 
+            summary: 
+      24:
+        summary:  >-
+              George creates a piece of art for the country-wide art show with the help of guest artist Kevin Sampson! Then, Arthur gets angry over a pair of sneakers and must learn how to control his temper. Plus, when Mrs. MacGrady is diagnosed with cancer, Arthur and his friends all react differently to the news. The kids must learn how to come together to help support each other and Mrs. MacGrady.
+        episodes:
+          1:
+            title: "George Scraps His Sculpture/Arthur's Big Meltdown"
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S24/01.jpg
+            originally_available: 2021-03-07
+            summary: George creates a piece of art for the county-wide art show with the help of guest artist Kevin Sampson. Then, Arthur must learn how to control his temper after getting angry over a pair of sneakers! Can he learn how to calm down in tough situations?
+          2:
+            title: "The Great MacGrady, Parts 1 & 2"
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S24/01.jpg
+            originally_available: 2021-03-08
+            summary: When Mrs. MacGrady is diagnosed with cancer, Arthur and his friends all react differently to the news. The kids must learn how to come together to help support each other and Mrs. MacGrady.
+          3:
+            title: "D.W.'s New Best Friend/Freaky Tuesday"
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S24/01.jpg
+            originally_available: 2021-03-09
+            summary: D.W. meets 13-year-old Hana, who is much older and totally cool! Is Hana D.W's new BFF? Then, Buster is convinced teachers have it easy. Too bad he can’t put himself in Mr. Ratburn’s shoes to find out what it’s really like to be a teacher… Or can he?
       25:
         summary:  >-
               Celebrate 25 years of Arthur! Arthur and his friends solve a mystery, see a silent movie, find out what it’s like to be a reporter, learn how to help a grieving friend and go on a family vacation! Plus, get a glimpse at what’s in store in the future for a grown-up Arthur and the rest of these beloved characters!
@@ -34,12 +63,12 @@ metadata:
             originally_available: 2022-02-20
             summary: Talking to adults makes George want to hide under a table! When he learns he must go to a grown-up party, he turns to his friends for help. Then, Arthur and his friends learn that old silent films can be just as much fun as the movies they’re used to.
           3:
-            title: ""
+            title: "Listen Up!/Arthur's New Old Vacation"
             url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S25/03.jpg
-            originally_available: 
-            summary: 
+            originally_available: 2022-02-20
+            summary: When Francine's Bubbe passes away, Muffy tries to understand how she can help her friend. Then, when Arthur's family goes on the same vacation they take every year, he and Buster try to make it more exciting.
           4:
-            title: ""
+            title: "Blabbermouth/All Grown Up"
             url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S25/04.jpg
-            originally_available: 
-            summary: 
+            originally_available: 2022-02-20
+            summary: Buster is hurt when he learns his friends don't trust him to keep a secret. Then, the gang finds a mysterious fortune telling game at the library and gets a hint of what their futures could hold.
