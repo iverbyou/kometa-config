@@ -1,0 +1,43 @@
+metadata:
+  Arthur:
+    title: Arthur
+    year: 1996
+    summary: Based on the books by Marc Brown, these are the adventures of Arthur, an 8-year-old aardvark, and his family and friends as they grow up and learn how to be good neighbors to one another.
+    seasons:
+      1:
+        episodes:
+          1:
+            title: 
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S01/01.jpg
+            originally_available: 
+            summary: 
+
+      2:
+        episodes:
+          1:
+            title: ""
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S01/01.jpg
+            originally_available: 
+            summary: 
+      25:
+        episodes:
+          1:
+            title: "Binky Wrestles with a Story/All Will Be Revealed"
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S25/01.jpg
+            originally_available: 2022-02-20
+            summary: Binky spends the day with Bitzi Baxter and learns what it's like to be a news reporter. Then, D.W., Bud, and Rapty set out to solve the mystery of what really happened to D.W.'s snowball.
+          2:
+            title: "Making Conversation/A Cloudy Day"
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S25/02.jpg
+            originally_available: 2022-02-20
+            summary: Talking to adults makes George want to hide under a table! When he learns he must go to a grown-up party, he turns to his friends for help. Then, Arthur and his friends learn that old silent films can be just as much fun as the movies they’re used to.
+          3:
+            title: ""
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S25/03.jpg
+            originally_available: 
+            summary: 
+          4:
+            title: ""
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S25/04.jpg
+            originally_available: 
+            summary: 
