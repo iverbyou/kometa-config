@@ -4,6 +4,45 @@ metadata:
     year: 1996
     summary: Based on the books by Marc Brown, these are the adventures of Arthur, an 8-year-old aardvark, and his family and friends as they grow up and learn how to be good neighbors to one another.
     seasons:
+      0:
+        summary: 
+        episodes:
+          1:
+            title: "Arthur's Perfect Christmas"
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S00/christmas.jpg
+            originally_available: 2000-11-23
+            summary: While the residents of Elwood City get ready for Christmas, Hanukkah, Kwanzaa, and even "Baxter Day," they want their holiday celebrations to be perfect—but just what does that mean?
+          2:
+            title: "Arthur – It's Only Rock 'n' Roll"
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S00/rocknroll.jpg
+            originally_available: 2002-09-01
+            summary: When the prospect of an Elwood City concert by a popular boy band drives everyone else into a frenzy, a disgusted Francine decides to counter with an "anti-cute" band of her own called U Stink. But things don't go quite the way she had planned. The Backstreet Boys—Kevin, AJ, Howie D., Brian, and Nick—guest star as animated versions of themselves.
+          3:
+            title: "D.W. and the Beastly Birthday"
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S00/dwbirthday.jpg
+            originally_available: 2017-05-29
+            summary: D.W. is turning five! When her birthday doesn’t go as planned, D.W. runs away to the magical island of Ukubonga. Meanwhile, Arthur has skipped her birthday party to go on a school trip to the planetarium – but instead of transporting him into outer space, it transports him 4 years into the future!
+          4:
+            title: "Arthur and the Haunted Tree House"
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S00/haunted.jpg
+            originally_available: 2017-10-23
+            summary: While trick-or-treating, Francine meets an old woman with a very mysterious past, while Binky finds himself at Mr. Ratburn’s amazing haunted house (that’s scarier than math class!). Muffy and Bailey decide to cut through a dark, rainy cemetery. And as for Arthur, Buster and Ladonna? Their tree house sleepover seems to be haunted...but by what?
+          5:
+            title: "The Rhythm and Roots of Arthur"
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S00/rhythmroots.jpg
+            originally_available: 2020-01-20
+            summary: Arthur's Great-Grand Uncle Theo is celebrating his 85th birthday, so the Reads (and Buster) are off to Ohio to join in the festivities. While D.W. and Arthur learn that farm life is a little different than life in Elwood City, Buster worries he may be getting in the way at this family reunion. With the help of Cousin Miles, some llamas, and a little bit of music, they all discover what it truly means to be family.
+          6:
+            title: "An Arthur Thanksgiving"
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S00/thanksgiving.jpg
+            originally_available: 2020-11-16
+            summary: It's Thanksgiving, and it couldn't be busier! David is whipping up his famous turkey dinner, the Lakewood elementary kids are preparing for the annual parade and, when things start to go off course, Arthur and his friends must find a way to save the Thanksgiving celebration.
+          7:
+            title: "Arthur's First Day"
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S00/firstday.jpg
+            originally_available: 2021-09-06
+            summary: It's finally the first day of fourth grade and Arthur couldn't be more excited - until he learns Buster is in another class! Meanwhile, D.W. is nervous for her first day of kindergarten. Will Arthur and D.W. be able to make new friends?
+          
       1:
         episodes:
           1:
@@ -11,7 +50,7 @@ metadata:
             url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S01/01.jpg
             originally_available: 
             summary: 
-
+            
       2:
         summary: 
         episodes:
