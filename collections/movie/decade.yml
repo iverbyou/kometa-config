@@ -1,0 +1,60 @@
+######################################################
+#                  DECADES BEST OF                   #
+######################################################
+templates:
+  Decade:
+    sort_title: +001_<<collection_name>>
+    url_poster: <<poster>>
+    imdb_search:
+      type: movie
+      release.after: <<start_date>>
+      release.before: <<end_date>>
+      votes.gte: 1000
+      sort_by: popularity.asc
+      limit: 150
+    collection_mode: hide
+    collection_order: custom
+    sync_mode: sync
+
+collections:
+  Best of the 1980s:
+    template:
+      name: Decade
+      start_date: 1980-01-01
+      end_date: 1989-12-31
+      poster: https://i.imgur.com/alpakHX.jpeg
+      summary: A collection of the top films of the 1980s
+
+  Best of the 1990s:
+    template:
+      name: Decade
+      start_date: 1990-01-01
+      end_date: 1999-12-31
+      poster: https://i.imgur.com/NKY9tYN.jpeg
+      summary: A collection of the top films of the 1990s
+
+  Best of the 2000s:
+    template:
+      name: Decade
+      start_date: 2000-01-01
+      end_date: 2009-12-31
+      poster: https://i.imgur.com/AWPDIbc.jpeg
+      summary: A collection of the top films of the 2000s
+
+  Best of the 2010s:
+    template:
+      name: Decade
+      start_date: 2010-01-01
+      end_date: 2019-12-31
+      poster: https://i.imgur.com/xexiKmM.jpeg
+      summary: A collection of the top films of the 2010s
+
+  Best of the 2020s:
+    template:
+      name: Decade
+      start_date: 2020-01-01
+      end_date: 2029-12-31
+      poster: https://i.imgur.com/lzLKsRm.jpeg
+      summary: A collection of the top films of the 2020s so far
+  
+    
