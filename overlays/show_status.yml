@@ -5,25 +5,47 @@ overlays:
 
   Weekly:
     overlay:
-      url: https://raw.githubusercontent.com/iverbyou/kometa-config/main/overlays/show-status/airingnewseason.png
+      url: https://raw.githubusercontent.com/iverbyou/kometa-config/main/overlays/show-status/newseasonairing.png
       name: airing
       group: STATUS
       weight: 900
     tmdb_on_the_air: 5000
+
+  NewSeason:
+    overlay:
+      url: https://raw.githubusercontent.com/iverbyou/kometa-config/main/overlays/show-status/newseason.png
+      name: newseason
+      group: STATUS
+      weight: 850
+    plex_search:
+      all:
+        episode_air_date: 45
+    filters:
+      tmdb_status: returning
+
+#  Miniseries:
+#    overlay: 
+#      name: Miniseries
+#      url: https://raw.githubusercontent.com/iverbyou/kometa-config/main/overlays/show-status/miniseries.png
+#      group: STATUS
+#      weight: 800
+#    plex_search:
+#      all:
+#        genre: Mini-Series
 
   Returning:
     overlay:
       url: https://raw.githubusercontent.com/iverbyou/kometa-config/main/overlays/show-status/returningseries.png
       name: returning
       group: STATUS
-      weight: 800
+      weight: 700
     plex_all: true
     filters:
       tmdb_status:
          - returning
          - planned
          - production
-
+      
 #  Ended:
 #    overlay:
 #      url: https://raw.githubusercontent.com/iverbyou/kometa-config/main/overlays/show-status/completeseries.png
@@ -40,22 +62,11 @@ overlays:
 #      name: cancelled
 #      url: https://raw.githubusercontent.com/iverbyou/kometa-config/main/overlays/show-status/completeseries.png
 #      group: STATUS
-#      weight: 700
+#      weight: 650
 #    plex_all: true
 #    filters:
 #      tmdb_status:
 #         - canceled
 
-#  Miniseries:
-#    overlay: 
-#      name: Miniseries
-#      url: https://raw.githubusercontent.com/iverbyou/kometa-config/main/overlays/show-status/miniseries.png
-#      group: STATUS
-#      weight: 750
-#    suppress_overlays: 
-#       - ended
-#       - cancelled
-#    plex_search:
-#      all:
-#        genre: Mini-Series
+
 
