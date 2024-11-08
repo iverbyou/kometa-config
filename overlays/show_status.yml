@@ -9,12 +9,7 @@ overlays:
       name: airing
       group: STATUS
       weight: 900
-    plex_search:
-      all:
-        episode_air_date: 15
-    filters:
-      tmdb_status: returning
-#    tmdb_on_the_air: 5000
+    tmdb_on_the_air: 5000
 
   NewSeason:
     overlay:
