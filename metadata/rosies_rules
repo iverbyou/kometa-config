@@ -102,3 +102,103 @@ metadata:
             url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Rosie's-Rules/S01/19.jpg
             originally_available: 2023-04-05
             summary: Rosie, Crystal and Iggy try to recreate Mom and Papá’s beach anniversary tradition at home. It’s Chiles en Nogada Day, but when Papá loses the recipe, it’s up to Rosie to figure out who else might have it.
+          20:
+            title: "Dragon Drama / Rosie's Lucky Charm"
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Rosie's-Rules/S01/20.jpg
+            originally_available: 2023-06-26
+            summary: When Rosie and Javi find out Tía’s bringing home a dragon, they anxiously prepare for its arrival. Rosie finds a lucky charm in her backyard, but soon her luck starts to change.
+          21:
+            title: "Rosie in the City / osie in the Country"
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Rosie's-Rules/S01/21.jpg
+            originally_available: 2023-06-27
+            summary: Rosie, Javi and Papá are in the city for an errand, but Javi’s dragon toy gets lost and they go on a city adventure to find it. Tía takes the kids to the country to see the beautiful blue bonnets, but they encounter obstacles along the way.
+          22:
+            title: "The Great Robot Picnic / Rosie's Car Wash"
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Rosie's-Rules/S01/22.jpg
+            originally_available: 2023-06-28
+            summary: Tía needs decorations for the Robot Picnic, so Rosie and Javi make flowerpots using repurposed items. Rosie and Javi open a car wash to clean Iggy’s ride-on car, but soon they have too many customers and not enough water.
+          23:
+            title: "Fort Fuentes / Rosie's Derby Car"
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Rosie's-Rules/S01/23.jpg
+            originally_available: 2023-06-29
+            summary: The Fuentes kids make a fort in the living room, but they can’t agree on what to put in it. Rosie and Javi build a car for the soapbox derby race, but Rosie has trouble listening to Javi’s ideas.
+          24:
+            title: "The Ice Pop Truck/Rosie's Dollar Dilemma"
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Rosie's-Rules/S01/24.jpg
+            originally_available: 2023-08-21
+            summary: Rosie wants to try the new ice pop from the Ice Pop Truck, but she needs to find an extra dollar to buy it. Rosie gets a dollar after helping Tía at the mercado, but she struggles to decide what to buy with it.
+          25:
+            title: "Rosie the Message Delivery Kid / Javi's Growl"
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Rosie's-Rules/S01/25.jpg
+            originally_available: 2023-08-22
+            summary: Rosie decides to be a message delivery kid and deliver messages to her neighbors, but her messages get all mixed up. Javi temporarily loses his voice, so Rosie must help him recover before they perform their El Coco play.
+          26:
+            title: "President of the Sandbox / Dino Parade"
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Rosie's-Rules/S01/26.jpg
+            originally_available: 2023-08-23
+            summary: Rosie and Javi both want to be in charge of the sandbox, so the kids hold an election to choose the president. The Dino Parade is about to be cancelled, so Rosie rallies her friends to form a marching band.
+          27:
+            title: "Neighborhood Market Day / Rosie and Javi's Slime Store"
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Rosie's-Rules/S01/27.jpg
+            originally_available: 2023-08-24
+            summary: It’s Neighborhood Market Day and Rosie searches for something to sell, but nothing seems quite right. Rosie and Javi open a slime store, but realize they don’t have enough slime, so they have to make more.
+          28:
+            title: "Rosie on Ice / The Meteor Shower"
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Rosie's-Rules/S01/28.jpg
+            originally_available: 2023-08-25
+            summary: Rosie’s going ice skating with the Purple Knight, but when she decides not to wear a coat, she is too cold to skate. Rosie and Javi find the perfect spot to watch the meteor shower, but it’s not as perfect as they thought.
+          29:
+            title: "Dance Party Island / Rosie the Mascot"
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Rosie's-Rules/S01/29.jpg
+            originally_available: 2023-09-27
+            summary: Rosie creates a dance party island in her backyard, but the flag she puts on the island causes confusion. Rosie wants to help cheer on Javi’s soccer team, so she decides to become their mascot.
+          30:
+            title: "Purple Sweet Potato Buns / Tia's Big Break"
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Rosie's-Rules/S01/30.jpg
+            originally_available: 2023-09-28
+            summary: Rosie, Jun and Grandpa Liu go to the Asian Market to get more sweet potato buns, but their normal route is closed. Rosie and Javi help Tía overcome her stage fright when she appears on a TV cooking show.
+          31:
+            title: "Rosie's Switcheroo / Rosie's Family Tree"
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Rosie's-Rules/S01/31.jpg
+            originally_available: 2023-09-29
+            summary: Rosie and Papá switch roles for the day, but it’s a little trickier than they thought. For Valentine’s Day, Rosie tries to make a family tree by putting her family in a real tree.
+          32:
+            title: "The Catrina Mystery / The Lucky Dragon Dance"
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Rosie's-Rules/S01/32.jpg
+            originally_available: 2023-10-23
+            summary: For their Día de Muertos celebration, Rosie is in charge of the Catrina doll, but it keeps disappearing. Rosie celebrates Lunar New Year with the Lius, but when they miss the dragon dance, Jun, Quinn and Rosie decide to make their own.
+          33:
+            title: "Donating Day / Gatita the Volunteer Cat"
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Rosie's-Rules/S01/33.jpg
+            originally_available: 2023-11-20
+            summary: Rosie donates some things for Donating Day, but when she accidentally gives away her doll Lele, she must get it back. Rosie and Gatita volunteer for Seniors Day at the Nature Center, but their volunteering doesn't go as planned.
+          34:
+            title: "Rosie the Reporter / The Jalapeño Giant"
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Rosie's-Rules/S01/34.jpg
+            originally_available: 2023-11-21
+            summary: Rosie tries to be a reporter, but has a hard time finding things that are newsworthy. Rosie and Jun believe there's a jalapeño giant on the loose, so they try to warn everyone.
+          35:
+            title: "Catch That Watermelon / Dino Cave"
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Rosie's-Rules/S01/35.jpg
+            originally_available: 2023-11-22
+            summary: Rosie and Javi try to find a way to transport a watermelon from her house to the park for the family picnic. Rosie offers to build a dino cave for Iggy, but first she needs to transport all the materials they'll need.
+          36:
+            title: "Abuela's Song / Rosie the Inventor"
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Rosie's-Rules/S01/36.jpg
+            originally_available: 2024-06-24
+            summary: Rosie and Javi want to play Abuela’s song for Music Night at Tía’s restaurant, but they can’t find the right device to do so. Rosie wants to become an inventor, but she has trouble coming up with an invention.
+          37:
+            title: "Rosie the Recycling Kid / Rosie and La Monarca"
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Rosie's-Rules/S01/37.jpg
+            originally_available: 2024-06-24
+            summary: It’s Recycling Day, so Rosie becomes a recycling kid, but she accidentally recycles Crystal’s art project. When Rosie and Javi find a monarch butterfly in the backyard, they try to figure out what it needs so it can flutter again.
+          38:
+            title: "Wonder Walrus Live / Rosie and Javi's Museum"
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Rosie's-Rules/S01/38.jpg
+            originally_available: 2024-06-24
+            summary: Uncle Steve takes the kids to the park where a Wonder Walrus show is about to start, but the wait keeps getting longer. Rosie and Javi make a space museum, but things get confusing when Iggy keeps showing up as a dino.
+          39:
+            title: "Rosie Makes the Rules / Iggy's Dino Cake"
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Rosie's-Rules/S01/39.jpg
+            originally_available: 2024-06-24
+            summary: The Fuentes family gets a hammock from Abuela, but the kids must set up rules to keep things fair. Tía baked Iggy a dino cake for his birthday, but Rosie and Javi break her rule of not touching the cake, and now it’s smushed.
