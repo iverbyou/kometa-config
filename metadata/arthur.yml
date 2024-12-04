@@ -44,14 +44,6 @@ metadata:
             summary: It's finally the first day of fourth grade and Arthur couldn't be more excited - until he learns Buster is in another class! Meanwhile, D.W. is nervous for her first day of kindergarten. Will Arthur and D.W. be able to make new friends?
           
       1:
-        episodes:
-          1:
-            title: 
-            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S01/01.jpg
-            originally_available: 
-            summary: 
-            
-      2:
         summary: 
         episodes:
           1:
@@ -61,12 +53,12 @@ metadata:
             summary: 
           2:
             title: ""
-            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S01/01.jpg
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S01/02.jpg
             originally_available: 
             summary: 
           3:
             title: ""
-            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S01/01.jpg
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S01/03.jpg
             originally_available: 
             summary: 
           4:
@@ -87,6 +79,160 @@ metadata:
           7:
             title: ""
             url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S01/07.jpg
+            originally_available: 
+            summary: 
+          8:
+            title: ""
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S01/08.jpg
+            originally_available: 
+            summary: 
+          9:
+            title: ""
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S01/09.jpg
+            originally_available: 
+            summary: 
+          10:
+            title: ""
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S01/10.jpg
+            originally_available: 
+            summary: 
+          11:
+            title: ""
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S01/11.jpg
+            originally_available: 
+            summary: 
+          12:
+            title: ""
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S01/12.jpg
+            originally_available: 
+            summary: 
+          13:
+            title: ""
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S01/13.jpg
+            originally_available: 
+            summary: 
+          14:
+            title: ""
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S01/14.jpg
+            originally_available: 
+            summary: 
+          15:
+            title: ""
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S01/15.jpg
+            originally_available: 
+            summary: 
+          16:
+            title: ""
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S01/16.jpg
+            originally_available: 
+            summary: 
+          17:
+            title: ""
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S01/17.jpg
+            originally_available: 
+            summary: 
+          18:
+            title: ""
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S01/18.jpg
+            originally_available: 
+            summary: 
+          19:
+            title: ""
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S01/19.jpg
+            originally_available: 
+            summary: 
+          20:
+            title: ""
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S01/20.jpg
+            originally_available: 
+            summary: 
+          21:
+            title: ""
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S01/21.jpg
+            originally_available: 
+            summary: 
+          22:
+            title: ""
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S01/22.jpg
+            originally_available: 
+            summary: 
+          23:
+            title: ""
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S01/23.jpg
+            originally_available: 
+            summary: 
+          24:
+            title: ""
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S01/24.jpg
+            originally_available: 
+            summary: 
+          25:
+            title: ""
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S01/25.jpg
+            originally_available: 
+            summary: 
+          26:
+            title: ""
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S01/26.jpg
+            originally_available: 
+            summary: 
+          27:
+            title: ""
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S01/27.jpg
+            originally_available: 
+            summary: 
+          28:
+            title: ""
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S01/28.jpg
+            originally_available: 
+            summary: 
+          29:
+            title: ""
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S01/29.jpg
+            originally_available: 
+            summary: 
+          30:
+            title: ""
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S01/30.jpg
+            originally_available: 
+            summary: 
+            
+      2:
+        summary: 
+        episodes:
+          1:
+            title: ""
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S02/01.jpg
+            originally_available: 
+            summary: 
+          2:
+            title: ""
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S02/02.jpg
+            originally_available: 
+            summary: 
+          3:
+            title: ""
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S02/03.jpg
+            originally_available: 
+            summary: 
+          4:
+            title: ""
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S02/04.jpg
+            originally_available: 
+            summary: 
+          5:
+            title: ""
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S02/05.jpg
+            originally_available: 
+            summary: 
+          6:
+            title: ""
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S02/06.jpg
+            originally_available: 
+            summary: 
+          7:
+            title: ""
+            url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/assets/tv/Arthur/S02/07.jpg
             originally_available: 
             summary: 
       20:
