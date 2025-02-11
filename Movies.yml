@@ -1,0 +1,188 @@
+templates:
+  Studio:
+    collection_mode: hide
+    collection_order: alpha
+    sync_mode: sync
+
+  Company:
+    optional:
+      - with_genre
+      - without_genre
+      - without_keywords
+      - runtime_over
+      - runtime_under
+    tmdb_discover:
+      with_companies: <<tmdb>>
+      with_genres: <<with_genre>>
+      without_genres: <<without_genre>>
+      without_keywords: <<without_keywords>>
+      with_runtime.gte: <<runtime_over>>
+      with_runtime.lte: <<runtime_under>>
+      with_original_language: en
+      sort_by: <<sort>>
+    collection_mode: hide
+    collection_order: custom
+    sync_mode: sync
+
+  Universe:
+    sort_title: +06_<<collection_name>>
+    collection_mode: hide
+    schedule: daily
+
+  Collection:
+    tmdb_collection_details: <<tmdb>>
+    collection_mode: hide
+    collection_order: release
+    sync_mode: sync
+
+  Actor:
+    actor: tmdb
+    tmdb_person: <<person>>
+    tmdb_actor_details: <<person>>
+    sort_title: +09_<<collection_name>>
+    sync_mode: sync
+    collection_order: release
+    collection_mode: hide
+
+collections:
+
+######################################################
+#              Studio/Company Collections            #
+######################################################
+  Amazon Originals:
+    sort_title: +002_Amazon
+    trakt_list: https://trakt.tv/users/k0meta/lists/amazon-originals
+    url_poster: https://i.imgur.com/KIAxUkV.jpeg
+    collection_mode: hide
+    collection_order: alpha
+    sync_mode: sync
+
+  Disney+ Originals:
+    sort_title: +002_Disney+
+    trakt_list: https://trakt.tv/users/k0meta/lists/disney-originals
+    url_poster: https://i.imgur.com/8O7AvCd.jpeg
+    collection_mode: hide
+    collection_order: alpha
+    sync_mode: sync
+
+  Hulu Originals:
+    sort_title: +002_Hulu
+    trakt_list: https://trakt.tv/users/k0meta/lists/hulu-originals
+    url_poster: https://i.imgur.com/BfNH8XE.jpeg
+    smart_label: random
+    collection_mode: hide
+    sync_mode: sync
+
+  Netflix Originals:
+    sort_title: +002_Netflix
+    trakt_list: https://trakt.tv/users/k0meta/lists/netflix-originals
+    url_poster: https://i.imgur.com/xAwg2Oc.jpeg
+    collection_mode: hide
+    collection_order: alpha
+    sync_mode: sync
+
+  Paramount+ Originals:
+    sort_title: +002_Paramount
+    trakt_list: https://trakt.tv/users/k0meta/lists/paramount-originals
+    url_poster: https://i.imgur.com/pGZnYnQ.jpeg
+    collection_mode: hide
+    collection_order: alpha
+    sync_mode: sync
+
+  A24:
+    letterboxd_list: https://letterboxd.com/fidelcb/list/a24/
+    url_poster: https://i.imgur.com/Us8igyi.jpeg
+    sort_title: +003_A24
+    summary: Movies that A24 has produced/distributed.
+    collection_order: custom
+    sync_mode: sync
+
+  Blumhouse:
+    template: {name: Company, tmdb: 3172, sort: popularity.desc}
+    sort_title: +003_Blumhouse
+    url_poster: https://i.imgur.com/lY3qQ2B.jpeg
+
+  Pixar Animation:
+    template: {name: Company, tmdb: 3, sort: original_title.asc, runtime_over: 60}
+    sort_title: +003_Pixar
+    url_poster: https://i.imgur.com/l4yd5yG.jpeg
+
+  Walt Disney Animation:
+    template: {name: Studio}
+    sort_title: +003_Walt Disney Animation
+    url_poster: https://i.imgur.com/yTQCFvf.jpeg
+    plex_search:
+      studio: Walt Disney Productions,Walt Disney Pictures,Disney Television Animation,Silver Screen Partners II,The Kushner-Locke Company
+      genre: Animation
+      collection.not: Pixar Animation
+      duration.gte: 60
+
+  Walt Disney Pictures:
+    template: {name: Studio}
+    sort_title: +003_Walt Disney Pictures
+    url_poster: https://i.imgur.com/b3W5IYY.jpeg
+    plex_search:
+      studio: Walt Disney Pictures,Walt Disney Productions
+      genre.not: Animation
+
+  DCOMs:
+    sort_title: +004_xDCOM
+    letterboxd_list: https://letterboxd.com/breakerdude/list/dcom/
+    url_poster: https://theposterdb.com/api/assets/234697/
+    collection_mode: hide
+    collection_order: custom
+    sync_mode: sync
+
+
+
+######################################################
+#                Custom Collections                  #
+######################################################
+  CHICAGO ✶:
+    sort_title: +04_<<collection_name>>
+    letterboxd_list: https://letterboxd.com/eesmee/list/chicago-1/
+    url_poster: https://i.imgur.com/220j4jk.jpeg
+    smart_label: random
+    collection_mode: hide
+    sync_mode: sync
+
+  Movies Under 100 Minutes:
+    sort_title: +04_<<collection_name>>
+    smart_label: random
+    collection_mode: hide
+    summary: Movies that are under 100 minutes long ♫ Like, at most an hour 40, gimme that short-ass movie ♫
+    plex_search:
+      duration.lte: 100
+      duration.gte: 30
+      genre.not: Horror, Documentary
+
+
+######################################################
+#               Franchise Collections                #
+######################################################
+  John Wick:
+    template: {name: Collection, tmdb: 404609}
+  Jurassic Park:
+    template: {name: Collection, tmdb: 328}
+
+#HORROR
+  A Nightmare on Elm Street:
+    template: {name: Collection, tmdb: 8581}
+  Final Destination:
+    template: {name: Collection, tmdb: 8864}
+  Halloween:
+    template: {name: Collection, tmdb: 91361}
+  Halloween (The Rob Zombie Films):
+    template: {name: Collection, tmdb: 126209}
+  Jeepers Creepers:
+    template: {name: Collection, tmdb: 94899}
+  Scream:
+    template: {name: Collection, tmdb: 2602}
+  The Conjuring:
+    template: {name: Collection, tmdb: 313086}
+
+#DISNEY
+  Aladdin:
+    template: {name: Collection, tmdb: 86027}
+  The Santa Clause:
+    template: {name: Collection, tmdb: 53159}
