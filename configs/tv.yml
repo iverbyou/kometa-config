@@ -3,9 +3,8 @@ collections:
 ######################################################
 #                       BY GENRE                     #
 ######################################################
-  Based on True Story:
-    sort_title: Based on True Story
+  Based on a True Story:
+    sort_title: Based on a True Story
     mdblist_list: https://mdblist.com/lists/moonprism/tv-based-on-true-story
-    smart_label: random
     collection_mode: hide
     sync_mode: sync
