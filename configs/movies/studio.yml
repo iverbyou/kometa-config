@@ -1,0 +1,106 @@
+templates:
+  Studio:
+    collection_mode: hide
+    collection_order: alpha
+    sync_mode: sync
+
+  Company:
+    optional:
+      - with_genre
+      - without_genre
+      - without_keywords
+      - runtime_over
+      - runtime_under
+    tmdb_discover:
+      with_companies: <<tmdb>>
+      with_genres: <<with_genre>>
+      without_genres: <<without_genre>>
+      without_keywords: <<without_keywords>>
+      with_runtime.gte: <<runtime_over>>
+      with_runtime.lte: <<runtime_under>>
+      with_original_language: en
+      sort_by: <<sort>>
+    collection_mode: hide
+    collection_order: custom
+    sync_mode: sync
+
+collections:
+
+######################################################
+#              Studio/Company Collections            #
+######################################################
+  Amazon Originals:
+    sort_title: +002_Amazon
+    trakt_list: https://trakt.tv/users/k0meta/lists/amazon-originals
+    url_poster: https://i.imgur.com/KIAxUkV.jpeg
+    collection_mode: hide
+    collection_order: alpha
+    sync_mode: sync
+
+  Disney+ Originals:
+    sort_title: +002_Disney+
+    trakt_list: https://trakt.tv/users/k0meta/lists/disney-originals
+    url_poster: https://i.imgur.com/8O7AvCd.jpeg
+    collection_mode: hide
+    collection_order: alpha
+    sync_mode: sync
+
+  Hulu Originals:
+    sort_title: +002_Hulu
+    trakt_list: https://trakt.tv/users/k0meta/lists/hulu-originals
+    url_poster: https://i.imgur.com/BfNH8XE.jpeg
+    smart_label: random
+    collection_mode: hide
+    sync_mode: sync
+
+  Netflix Originals:
+    sort_title: +002_Netflix
+    trakt_list: https://trakt.tv/users/k0meta/lists/netflix-originals
+    url_poster: https://i.imgur.com/xAwg2Oc.jpeg
+    collection_mode: hide
+    collection_order: alpha
+    sync_mode: sync
+
+  Paramount+ Originals:
+    sort_title: +002_Paramount
+    trakt_list: https://trakt.tv/users/k0meta/lists/paramount-originals
+    url_poster: https://i.imgur.com/pGZnYnQ.jpeg
+    collection_mode: hide
+    collection_order: alpha
+    sync_mode: sync
+
+  A24:
+    letterboxd_list: https://letterboxd.com/fidelcb/list/a24/
+    url_poster: https://i.imgur.com/Us8igyi.jpeg
+    sort_title: +003_A24
+    summary: Movies that A24 has produced/distributed.
+    collection_order: custom
+    sync_mode: sync
+
+  Blumhouse:
+    template: {name: Company, tmdb: 3172, sort: popularity.desc}
+    sort_title: +003_Blumhouse
+    url_poster: https://i.imgur.com/lY3qQ2B.jpeg
+
+  Pixar Animation:
+    template: {name: Company, tmdb: 3, sort: original_title.asc, runtime_over: 60}
+    sort_title: +003_Pixar
+    url_poster: https://i.imgur.com/l4yd5yG.jpeg
+
+  Walt Disney Animation:
+    template: {name: Studio}
+    sort_title: +003_Walt Disney Animation
+    url_poster: https://i.imgur.com/yTQCFvf.jpeg
+    plex_search:
+      studio: Walt Disney Productions,Walt Disney Pictures,Disney Television Animation,Silver Screen Partners II,The Kushner-Locke Company
+      genre: Animation
+      collection.not: Pixar Animation
+      duration.gte: 60
+
+  Walt Disney Pictures:
+    template: {name: Studio}
+    sort_title: +003_Walt Disney Pictures
+    url_poster: https://i.imgur.com/b3W5IYY.jpeg
+    plex_search:
+      studio: Walt Disney Pictures,Walt Disney Productions
+      genre.not: Animation
