@@ -3,5 +3,9 @@ collections:
 ######################################################
 #                       BY GENRE                     #
 ######################################################
-  Based on a True Story:
-    tmdb_keyword: 9672
+  Based on True Story:
+    sort_title: Based on True Story
+    mdblist_list: https://mdblist.com/lists/moonprism/tv-based-on-true-story
+    smart_label: random
+    collection_mode: hide
+    sync_mode: sync
