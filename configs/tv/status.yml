@@ -1,5 +1,6 @@
 ######################################################
 #             Labels Series with Status              #
+#                No Collection Built                 #
 ######################################################
 collections:
 
@@ -9,7 +10,6 @@ collections:
       tmdb_status: ended
     item_label: "Status: Ended"
     build_collection: false
-    sync_mode: sync
 
   Canceled Shows:
     plex_all: true
@@ -17,7 +17,6 @@ collections:
       tmdb_status: canceled
     item_label: "Status: Canceled"
     build_collection: false
-    sync_mode: sync
 
 
 # EXAMPLE FOR COLLECTION
