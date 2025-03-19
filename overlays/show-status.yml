@@ -19,7 +19,7 @@ overlays:
       weight: 850
     plex_search:
       all:
-        episode_air_date: 45
+        episode_air_date: 21
     filters:
       tmdb_status: returning
 
@@ -33,40 +33,40 @@ overlays:
 #      all:
 #        genre: Mini-Series
 
-  Returning:
+#  Returning:
+#    overlay:
+#      url: https://raw.githubusercontent.com/iverbyou/kometa-config/main/overlays/show-status/returningseries.png
+#      name: returning
+#      group: STATUS
+#      weight: 700
+#    plex_all: true
+#    filters:
+#      tmdb_status:
+#         - returning
+#         - planned
+#         - production
+      
+  Ended:
     overlay:
-      url: https://raw.githubusercontent.com/iverbyou/kometa-config/main/overlays/show-status/returningseries.png
-      name: returning
+      url: https://raw.githubusercontent.com/iverbyou/kometa-config/main/overlays/show-status/seriesended.png
+      name: ended
       group: STATUS
-      weight: 700
+      weight: 600
+    plex_search:
+      all:
+        genre.not: Documentary
+    filters:
+      label: Status: Ended
+
+  Cancelled:
+    overlay:
+      name: cancelled
+      url: https://raw.githubusercontent.com/iverbyou/kometa-config/main/overlays/show-status/seriescanceled.png
+      group: STATUS
+      weight: 650
     plex_all: true
     filters:
-      tmdb_status:
-         - returning
-         - planned
-         - production
-      
-#  Ended:
-#    overlay:
-#      url: https://raw.githubusercontent.com/iverbyou/kometa-config/main/overlays/show-status/completeseries.png
-#      name: ended
-#      group: STATUS
-#      weight: 600
-#    plex_all: true
-#    filters:
-#      tmdb_status:
-#         - ended
-
-#  Cancelled:
-#    overlay:
-#      name: cancelled
-#      url: https://raw.githubusercontent.com/iverbyou/kometa-config/main/overlays/show-status/completeseries.png
-#      group: STATUS
-#      weight: 650
-#    plex_all: true
-#    filters:
-#      tmdb_status:
-#         - canceled
+      label: Status: Canceled
 
 
 
