@@ -1,5 +1,6 @@
 ### SHOW STATUS ###
 ### modified from s0len's config (https://github.com/s0len/meta-manager-config/blob/main/overlays/status.yml)
+### highest weight per group will be applied
 
 overlays:
 
