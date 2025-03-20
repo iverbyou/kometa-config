@@ -1,16 +1,16 @@
 ### SHOW STATUS ###
 ### modified from s0len's config (https://github.com/s0len/meta-manager-config/blob/main/overlays/status.yml)
-### highest weight per group will be applied
+### only highest weight per group will be applied
 
 overlays:
 
-  Weekly:
-    overlay:
-      url: https://raw.githubusercontent.com/iverbyou/kometa-config/main/overlays/show-status/newseasonairing.png
-      name: airing
-      group: STATUS
-      weight: 900
-    tmdb_on_the_air: 5000
+#  Weekly:
+#    overlay:
+#      url: https://raw.githubusercontent.com/iverbyou/kometa-config/main/overlays/show-status/newseasonairing.png
+#      name: airing
+#      group: STATUS
+#      weight: 900
+#    tmdb_on_the_air: 5000
 
   NewSeason:
     overlay:
