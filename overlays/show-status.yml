@@ -55,9 +55,9 @@ overlays:
       weight: 600
     plex_search:
       all:
-        genre.not: Documentary
+        label: "Status: Ended"
     filters:
-      label: Status: Ended
+      genre.not: Documentary
 
   Cancelled:
     overlay:
@@ -65,9 +65,9 @@ overlays:
       url: https://raw.githubusercontent.com/iverbyou/kometa-config/main/overlays/show-status/seriescanceled.png
       group: STATUS
       weight: 650
-    plex_all: true
-    filters:
-      label: Status: Canceled
+    plex_search:
+      all:
+        label: "Status: Canceled"
 
 
 
