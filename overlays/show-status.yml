@@ -12,17 +12,17 @@ overlays:
 #      weight: 900
 #    tmdb_on_the_air: 5000
 
-  NewSeason:
-    overlay:
-      url: https://raw.githubusercontent.com/iverbyou/kometa-config/main/overlays/show-status/newseason.png
-      name: newseason
-      group: STATUS
-      weight: 850
-    plex_search:
-      all:
-        episode_air_date: 21
-    filters:
-      tmdb_status: returning
+#  NewSeason:
+#    overlay:
+#      url: https://raw.githubusercontent.com/iverbyou/kometa-config/main/overlays/show-status/newseason.png
+#      name: newseason
+#      group: STATUS
+#      weight: 850
+#    plex_search:
+#      all:
+#        episode_air_date: 21
+#    filters:
+#      tmdb_status: returning
 
 #  Miniseries:
 #    overlay: 
