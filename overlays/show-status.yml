@@ -62,7 +62,7 @@ overlays:
   Cancelled:
     overlay:
       name: cancelled
-      url: https://raw.githubusercontent.com/iverbyou/kometa-config/main/overlays/show-status/canceled2.png
+      url: https://raw.githubusercontent.com/iverbyou/kometa-config/main/overlays/show-status/canceled.png
       group: STATUS
       weight: 650
     plex_search:
