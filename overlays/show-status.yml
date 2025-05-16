@@ -49,7 +49,7 @@ overlays:
       
   Ended:
     overlay:
-      url: https://raw.githubusercontent.com/iverbyou/kometa-config/main/overlays/show-status/seriesended.png
+      url: https://raw.githubusercontent.com/iverbyou/kometa-config/main/overlays/show-status/ended.png
       name: ended
       group: STATUS
       weight: 600
@@ -62,7 +62,7 @@ overlays:
   Cancelled:
     overlay:
       name: cancelled
-      url: https://raw.githubusercontent.com/iverbyou/kometa-config/main/overlays/show-status/canceled.png
+      url: https://raw.githubusercontent.com/iverbyou/kometa-config/main/overlays/show-status/ended.png
       group: STATUS
       weight: 650
     plex_search:
