@@ -42,7 +42,6 @@ dynamic_collections:
       - Lifetime
       - Marvel Studios
       - Nickelodeon Animation Studio
-      - Pixar
     addons:
       DreamWorks Studios:
         - DreamWorks
@@ -56,28 +55,46 @@ dynamic_collections:
         - Marvel Enterprises
         - Marvel Entertainment
         - Marvel
-      Pixar:
-        - Pixar Animation Studios
     collection_mode: hide
 
 ### 
 
 collections:
+  Pixar:    
+    collection_mode: hide
+    sort_title: !070_Pixar
+    smart_filter:
+      all:
+        studio: Pixar Animation Studios
+        duration.gte: 60
+      sort_by: title.desc
+
+
   Walt Disney Animation:
     collection_mode: hide
+    sort_title: !070_Walt Disney Animation
     smart_filter:
       all:
         genre: Animation
-        studio: Disney Television Animation,DisneyToon Studios,Walt Disney Animation Studios,Walt Disney Pictures,Walt Disney Productions,Silver Screen Partners II
+        studio:
+          - Disney Television Animation
+          - DisneyToon Studios
+          - Walt Disney Animation Studios
+          - Walt Disney Pictures
+          - Walt Disney Productions
+          - Silver Screen Partners II
         duration.gte: 60
         collection.not: Pixar
       sort_by: title.desc
 
-  Walt Disney Pictures:
+  
+  Walt Disney Pictures:    
     collection_mode: hide
+    sort_title: !070_Walt Disney Pictures
     smart_filter:
       all:
         studio: Walt Disney Pictures,Walt Disney Productions
         genre.not: Animation
         duration.gte: 60
       sort_by: title.desc
+    
