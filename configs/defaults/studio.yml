@@ -35,7 +35,6 @@ dynamic_collections:
       dynamic:
         default: true
     include:
-      #### MOVIES & TV SHOWS ###############################################################################################
       - A24
       - DreamWorks Studios
       - DreamWorks Pictures
@@ -61,4 +60,24 @@ dynamic_collections:
         - Pixar Animation Studios
     collection_mode: hide
 
+### 
 
+collections:
+  Walt Disney Animation:
+    collection_mode: hide
+    smart_filter:
+      all:
+        genre: Animation
+        studio: Disney Television Animation,DisneyToon Studios,Walt Disney Animation Studios,Walt Disney Pictures,Walt Disney Productions,Silver Screen Partners II
+        duration.gte: 60
+        collection.not: Pixar
+      sort_by: title.desc
+
+  Walt Disney Pictures:
+    collection_mode: hide
+    smart_filter:
+      all:
+        studio: Walt Disney Pictures,Walt Disney Productions
+        genre.not: Animation
+        duration.gte: 60
+      sort_by: title.desc
