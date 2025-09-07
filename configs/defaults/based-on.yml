@@ -3,6 +3,9 @@
 #                 Created by Yozora, Bullmoose20, & Sohjiro                  #
 #          EDITING THIS FILE MAY CAUSE PULLING NEW UPDATES TO FAIL           #
 #             https://kometa.wiki/en/latest/defaults/both/based              #
+#                                                                            #
+#                    MODIFIED FOR LOCAL/PERSONALIZED USE                     #
+#          !! PERSONAL COPY BECAUSE I DON'T KNOW WHAT I'M DOING !!           #
 ##############################################################################
 
 external_templates:
@@ -25,7 +28,7 @@ dynamic_collections:
       books: Book
       comics: Comic
       true_story: True Story
-      video_games: Video Game
+#      video_games: Video Game
     title_format: Based on a <<key_name>>
     template:
       - mdb_smart
