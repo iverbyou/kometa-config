@@ -25,7 +25,7 @@ dynamic_collections:
   Based:
     type: custom
     data:
-      books: Book
+#      books: Book
       comics: Comic
       true_story: True Story
 #      video_games: Video Game
