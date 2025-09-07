@@ -13,13 +13,13 @@ external_templates:
   template_variables:
     collection_section: "085"
 
-collections:
-  Based on... Collections:
-    template:
-      - name: separator
-        separator: based
-        key_name: Based on...
-        translation_key: separator
+#collections:
+#  Based on... Collections:
+#    template:
+#      - name: separator
+#        separator: based
+#        key_name: Based on...
+#        translation_key: separator
 
 dynamic_collections:
   Based:
