@@ -37,7 +37,6 @@ dynamic_collections:
     include:
       #### MOVIES & TV SHOWS ###############################################################################################
       - A24
-      - Blumhouse Productions
       - DreamWorks Studios
       - DreamWorks Pictures
       - Illumination Entertainment
@@ -45,9 +44,6 @@ dynamic_collections:
       - Marvel Studios
       - Nickelodeon Animation Studio
       - Pixar
-      - Walt Disney Animation
-      - Walt Disney Pictures
-      - Walt Disney Productions
     addons:
       DreamWorks Studios:
         - DreamWorks
@@ -63,19 +59,6 @@ dynamic_collections:
         - Marvel
       Pixar:
         - Pixar Animation Studios
-      Walt Disney Productions:
-        - Disney Television Animation
-        - DisneyToon Studios
-        - Walt Disney Animation Studios
-        - Walt Disney Pictures
-        - Walt Disney Productions
-        - Silver Screen Partners II
-      Walt Disney Pictures:
-        - Disney
-        - Walt Disney Pictures
-        - Walt Disney Productions
-    title_override:
-      Walt Disney Productions: Walt Disney Animation
     collection_mode: hide
 
 
