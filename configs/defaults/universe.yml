@@ -1,8 +1,11 @@
 ##############################################################################
-#                            Universe Collections                            #
+#                   Kometa Default Universe Collections                      #
 #                 Created by Yozora, Bullmoose20, & Sohjiro                  #
 #          EDITING THIS FILE MAY CAUSE PULLING NEW UPDATES TO FAIL           #
 #           https://kometa.wiki/en/latest/defaults/both/universe             #
+#                                                                            #
+#                    MODIFIED FOR LOCAL/PERSONALIZED USE                     #
+#          !! PERSONAL COPY BECAUSE I DON'T KNOW WHAT I'M DOING !!           #
 ##############################################################################
 
 external_templates:
@@ -55,13 +58,13 @@ templates:
     mdblist_list: <<mdblist_list_<<key>>>>
     delete_collections_named: <<delete_collections_named_<<key>>>>
 
-collections:
-  Universe Collections:
-    template:
-      - name: separator
-        separator: universe
-        key_name: Universe
-        translation_key: separator
+#collections:
+#  Universe Collections:
+#    template:
+#      - name: separator
+#        separator: universe
+#        key_name: Universe
+#        translation_key: separator
 
 dynamic_collections:
   Universe Collections:
@@ -115,7 +118,7 @@ dynamic_collections:
         askew: https://mdblist.com/lists/k0meta/external/15362
         wizard: https://mdblist.com/lists/k0meta/external/23683
       image:
-        default: universe/<<key>>
+        repo: assets/universe/<<key_encoded>>
       delete_collections_named:
         dcu: DC Extended Universe
         mummy: The Mummy Universe
