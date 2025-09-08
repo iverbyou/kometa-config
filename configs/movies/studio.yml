@@ -1,16 +1,56 @@
 collections:
+
+  A24:    
+    collection_mode: hide
+    sort_title: !070_A24
+    smart_filter:
+      all:
+        studio: A24
+        duration.gte: 60
+      sort_by: title.asc
+
+
+  DreamWorks Animation:    
+    collection_mode: hide
+    sort_title: !070_DreamWorks Animation
+    smart_filter:
+      all:
+        studio: DreamWorks,DreamWorks Animation,DreamWorks Animation Television,DreamWorks Classics
+        duration.gte: 60
+      sort_by: title.asc
+
+
+  Illumination:    
+    collection_mode: hide
+    sort_title: !070_Illumination
+    smart_filter:
+      all:
+        studio: Illumination,Illumination Films
+        duration.gte: 60
+      sort_by: title.asc
+
+
+  Pixar:    
+    collection_mode: hide
+    sort_title: !070_Pixar
+    smart_filter:
+      all:
+        studio: Pixar,Pixar Animation
+        duration.gte: 60
+      sort_by: title.asc
+
+
   Walt Disney Animation:
     collection_mode: hide
     sort_title: !070_Walt Disney Animation
     smart_filter:
       all:
-        genre: Animation
+        genre.is: Animation
         studio: Disney Television Animation,DisneyToon Studios,Walt Disney Animation,Walt Disney Pictures,Walt Disney Productions,Silver Screen Partners II
         duration.gte: 60
-        collection.not: Pixar
       sort_by: title.asc
 
-  
+
   Walt Disney Pictures:    
     collection_mode: hide
     sort_title: !070_Walt Disney Pictures
@@ -20,3 +60,14 @@ collections:
         genre.not: Animation
         duration.gte: 60
       sort_by: title.asc
+
+
+
+
+
+
+
+
+
+
+
