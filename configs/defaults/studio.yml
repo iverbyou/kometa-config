@@ -78,7 +78,8 @@ collections:
           - Walt Disney Productions
           - Silver Screen Partners II
         duration.gte: 60
-      sort_by: title.desc
+        collection.not: Pixar
+      sort_by: title.asc
 
   
   Walt Disney Pictures:    
@@ -89,5 +90,5 @@ collections:
         studio: Walt Disney Pictures,Walt Disney Productions
         genre.not: Animation
         duration.gte: 60
-      sort_by: title.desc
+      sort_by: title.asc
     
