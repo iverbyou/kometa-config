@@ -4,7 +4,6 @@ collections:
     smart_filter:
       all:
         studio: A24
-        duration.gte: 60
       sort_by: title.asc
     collection_mode: hide
     sort_title: "!070_A24"
@@ -15,7 +14,6 @@ collections:
     smart_filter:
       all:
         studio: DreamWorks Animation,DreamWorks Animation Television
-        duration.gte: 60
       sort_by: title.asc
     collection_mode: hide
     sort_title: "!070_DreamWorks Animation"
@@ -26,7 +24,6 @@ collections:
     smart_filter:
       all:
         studio: Illumination,Illumination Films
-        duration.gte: 60
       sort_by: title.asc
     collection_mode: hide
     sort_title: "!070_Illumination"
@@ -50,6 +47,7 @@ collections:
         genre: Animation
         studio: Disney Television Animation,DisneyToon Studios,Walt Disney Animation,Walt Disney Pictures,Walt Disney Productions,Silver Screen Partners II
         duration.gte: 60
+        title.isnot: "Mufasa: The Lion King"
       sort_by: title.asc
     collection_mode: hide
     sort_title: "!070_Walt Disney Animation"
@@ -61,7 +59,6 @@ collections:
       all:
         studio: Walt Disney Pictures,Walt Disney Productions
         genre.not: Animation
-        duration.gte: 60
       sort_by: title.asc
     collection_mode: hide
     sort_title: "!070_Walt Disney Pictures"
