@@ -22,7 +22,7 @@ collections:
     summary: "DreamWorks Animation LLC (also simply known as DreamWorks) is an American animation studio that is a subsidiary of Universal Pictures, a division of Comcast through its wholly owned subsidiary NBCUniversal. It is based in Glendale, California and produces animated feature films, television programs and online virtual games. The studio has released feature films from the Shrek, Madagascar, Kung Fu Panda, Monsters Vs Aliens, How to Train Your Dragon, The Croods, Trolls, and The Boss Baby franchises."
 
 
-  Illumination Entertainment:    
+  Illumination:    
     smart_filter:
       all:
         studio: Illumination,Illumination Films
