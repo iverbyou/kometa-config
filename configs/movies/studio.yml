@@ -2,28 +2,6 @@
 #              Studio/Company Collections            #
 ######################################################
 
-templates:
-
-  Company:
-    optional:
-      - with_genre
-      - without_genre
-      - without_keywords
-      - runtime_over
-      - runtime_under
-    tmdb_discover:
-      with_companies: <<tmdb>>
-      with_genres: <<with_genre>>
-      without_genres: <<without_genre>>
-      without_keywords: <<without_keywords>>
-      with_runtime.gte: <<runtime_over>>
-      with_runtime.lte: <<runtime_under>>
-      with_original_language: en
-      sort_by: <<sort>>
-    collection_mode: hide
-    collection_order: custom
-    sync_mode: sync
-
 collections:
 
   A24:    
@@ -101,6 +79,7 @@ collections:
       all:
         studio: Walt Disney Pictures,Walt Disney Productions
         genre.not: Animation
+        title.isnot: "Jonas Brothers: The 3D Concert Experience"
       sort_by: title.asc
     collection_mode: hide
     sort_title: "!070_Walt Disney Pictures"
