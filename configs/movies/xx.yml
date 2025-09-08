@@ -68,39 +68,3 @@ collections:
     collection_mode: hide
     collection_order: alpha
     sync_mode: sync
-
-  A24:
-    letterboxd_list: https://letterboxd.com/fidelcb/list/a24/
-    url_poster: https://i.imgur.com/Us8igyi.jpeg
-    sort_title: +003_A24
-    summary: Movies that A24 has produced/distributed.
-    collection_order: custom
-    sync_mode: sync
-
-  Blumhouse:
-    template: {name: Company, tmdb: 3172, sort: popularity.desc}
-    sort_title: +003_Blumhouse
-    url_poster: https://i.imgur.com/lY3qQ2B.jpeg
-
-  Pixar Animation:
-    template: {name: Company, tmdb: 3, sort: original_title.asc, runtime_over: 60}
-    sort_title: +003_Pixar
-    url_poster: https://i.imgur.com/l4yd5yG.jpeg
-
-  Walt Disney Animation:
-    template: {name: Studio}
-    sort_title: +003_Walt Disney Animation
-    url_poster: https://i.imgur.com/yTQCFvf.jpeg
-    plex_search:
-      studio: Walt Disney Productions,Walt Disney Pictures,Disney Television Animation,Silver Screen Partners II,The Kushner-Locke Company
-      genre: Animation
-      collection.not: Pixar Animation
-      duration.gte: 60
-
-  Walt Disney Pictures:
-    template: {name: Studio}
-    sort_title: +003_Walt Disney Pictures
-    url_poster: https://i.imgur.com/b3W5IYY.jpeg
-    plex_search:
-      studio: Walt Disney Pictures,Walt Disney Productions
-      genre.not: Animation
