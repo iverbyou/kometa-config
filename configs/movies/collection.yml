@@ -7,3 +7,12 @@ collections:
     sort_title: "!071_Disney TV"
     url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/configs/assets/collection/DCOM.jpg
     summary: "A collection of Disney TV movies including Disney Channel Premiere Films, Disney Channel Original Movies, and The Wonderful World of Disney"
+
+  CHICAGO ✶:
+    trakt_list: https://trakt.tv/users/moonprism/lists/chicago
+    smart_label: random
+    collection_mode: hide
+    sync_mode: sync
+    sort_title: "!090_Chicago"
+    url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/configs/assets/collection/Chicago.jpg
+    summary: "A collection of films set in or filmed in Chicago (and probably the surrounding suburbs)"
