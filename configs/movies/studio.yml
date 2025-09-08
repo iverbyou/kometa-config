@@ -53,7 +53,7 @@ collections:
       sort_by: title.asc
     collection_mode: hide
     sort_title: "!070_Walt Disney Animation"
-    url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/configs/assets/studio/Walt Disney Animation.jpg
+    url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/configs/assets/studio/Disney Animation.jpg
 
 
   Walt Disney Pictures:    
@@ -65,7 +65,7 @@ collections:
       sort_by: title.asc
     collection_mode: hide
     sort_title: "!070_Walt Disney Pictures"
-    url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/configs/assets/studio/Walt Disney Pictures.jpg
+    url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/configs/assets/studio/Disney Pictures.jpg
 
 
 
