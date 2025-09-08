@@ -1,47 +1,32 @@
-templates:
+##############################################################################
+#                             TEST TEST TEST
+##############################################################################
 
-  Universe:
-    sort_title: +06_<<collection_name>>
-    collection_mode: hide
-    schedule: daily
-
-  Actor:
-    actor: tmdb
-    tmdb_person: <<person>>
-    tmdb_actor_details: <<person>>
-    sort_title: +09_<<collection_name>>
-    sync_mode: sync
-    collection_order: release
-    collection_mode: hide
-
-collections:
-
-######################################################
-#                Custom Collections                  #
-######################################################
-  DCOMs:
-    sort_title: +004_xDCOM
-    letterboxd_list: https://letterboxd.com/breakerdude/list/dcom/
-    url_poster: https://theposterdb.com/api/assets/234697/
-    collection_mode: hide
-    collection_order: custom
-    sync_mode: sync
-
-  CHICAGO ✶:
-    sort_title: +04_<<collection_name>>
-    letterboxd_list: https://letterboxd.com/eesmee/list/chicago-1/
-    url_poster: https://i.imgur.com/220j4jk.jpeg
-    smart_label: random
-    collection_mode: hide
-    sync_mode: sync
-
-#  Movies Under 100 Minutes:
-#    sort_title: +04_<<collection_name>>
-#    smart_label: random
-#    collection_mode: hide
-#    summary: Movies that are under 100 minutes long ♫ Like, at most an hour 40, gimme that short-ass movie ♫
-#    plex_search:
-#      duration.lte: 100
-#      duration.gte: 30
-#      genre.not: Horror, Documentary
-
+    - default: studio
+      template_variables:
+        use_separator: false
+        collection_mode: hide
+        collection_order: alpha
+        include:
+        - A24
+        - DreamWorks Studios
+        - Illumination Entertainment
+        - Pixar
+        name_Illumination Entertainment: Illumination
+    - default: universe
+      template_variables:
+        use_separator: false
+        collection_mode: hide
+        collection_order: release
+        include:
+        - avp
+        - conjuring
+        - dcu
+        - fast
+        - marvel
+        - mcu
+        - star
+        - mummy
+        - wizard
+        - xmen
+        #url_poster: https:raw.githubusercontent.com/iverbyou/kometa-config/main/assets/universe/<<key>>.jpg
