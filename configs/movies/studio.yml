@@ -18,7 +18,7 @@ collections:
       sort_by: title.asc
     collection_mode: hide
     sort_title: "!070_DreamWorks Animation"
-    url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/configs/assets/studio/DreamWorks2.jpg
+    url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/configs/assets/studio/DreamWorks.jpg
     summary: "DreamWorks Animation LLC (also simply known as DreamWorks) is an American animation studio that is a subsidiary of Universal Pictures, a division of Comcast through its wholly owned subsidiary NBCUniversal. It is based in Glendale, California and produces animated feature films, television programs and online virtual games. The studio has released feature films from the Shrek, Madagascar, Kung Fu Panda, Monsters Vs Aliens, How to Train Your Dragon, The Croods, Trolls, and The Boss Baby franchises."
 
 
@@ -42,7 +42,7 @@ collections:
     collection_mode: hide
     sort_title: "!070_Pixar"
     url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/configs/assets/studio/Pixar.jpg
-    summary: "Pixar Animation Studios, is an American animation studio based in Emeryville, California, known for its critically and commercially successful computer-animated feature films. Pixar is a subsidiary of Walt Disney Studios, a division of the Disney Entertainment segment of the Walt Disney Company."
+    summary: "Pixar Animation Studios, is an American animation studio known for its critically and commercially successful computer-animated feature films. Pixar started in 1979 as part of the Lucasfilm computer division. It was known as the Graphics Group before its spin-off as a corporation in 1986, with funding from Apple co-founder Steve Jobs, who became its majority shareholder. Disney announced its acquisition of Pixar in January 2006, and completed it in May 2006. Pixar is best known for its feature films, technologically powered by RenderMan, the company's own implementation of the industry-standard RenderMan Interface Specification image-rendering API. The studio's mascot is Luxo Jr., a desk lamp from the studio's 1986 short film of the same name."
 
 
   Walt Disney Animation:
@@ -55,8 +55,8 @@ collections:
       sort_by: title.asc
     collection_mode: hide
     sort_title: "!070_Walt Disney Animation"
-    url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/configs/assets/studio/Disney Animation.jpg
-    summary: "Walt Disney Animation Studios (WDAS), or Disney Animation, is an American animation studio that produces animated feature films and short films for the Walt Disney Company. Founded on October 16, 1923, by brothers Walt Disney and Roy O. Disney after the closure of Laugh-O-Gram Studio, it is the longest-running animation studio in the world. It is currently organized as a division of Walt Disney Studios and is headquartered at the Roy E. Disney Animation Building at the Walt Disney Studios lot in Burbank, California."
+    url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/configs/assets/studio/DisneyAnimation.jpg
+    summary: "Walt Disney Animation Studios (WDAS), or Disney Animation, is an American animation studio that produces animated feature films and short films for the Walt Disney Company. Founded on October 16, 1923, by brothers Walt Disney and Roy O. Disney after the closure of Laugh-O-Gram Studio, it is the longest-running animation studio in the world. The studio's current production logo features a scene from its first synchronized sound cartoon, Steamboat Willie."
 
 
   Walt Disney Pictures:    
@@ -67,7 +67,7 @@ collections:
       sort_by: title.asc
     collection_mode: hide
     sort_title: "!070_Walt Disney Pictures"
-    url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/configs/assets/studio/Disney Pictures.jpg
+    url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/configs/assets/studio/DisneyPictures.jpg
     summary: "Walt Disney Pictures is an American film production company and subsidiary of the Walt Disney Studios, a division of Disney Entertainment, which is owned by the Walt Disney Company. The studio is the flagship producer of live-action feature films and animation within the Walt Disney Studios unit and is based at the Walt Disney Studios in Burbank, California. Animated films produced by Walt Disney Animation Studios and Pixar Animation Studios are also released under the studio banner. Walt Disney Studios Motion Pictures distributes and markets the films produced by Walt Disney Pictures."
 
 
