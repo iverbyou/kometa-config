@@ -16,6 +16,7 @@ external_templates:
 
 dynamic_collections:
   Studio:
+    collection_mode: hide
     type: studio
     title_format: <<key_name>>
     template:
@@ -42,6 +43,7 @@ dynamic_collections:
       - Lifetime
       - Marvel Studios
       - Nickelodeon Animation Studio
+      - Pixar
     addons:
       DreamWorks Studios:
         - DreamWorks
@@ -55,21 +57,13 @@ dynamic_collections:
         - Marvel Enterprises
         - Marvel Entertainment
         - Marvel
-    collection_mode: hide
+      Pixar:
+        - Pixar Animation Studios
+
 
 ### 
 
 collections:
-  Pixar:    
-    collection_mode: hide
-    sort_title: !070_Pixar
-    smart_filter:
-      all:
-        studio: Pixar Animation Studios
-        duration.gte: 60
-      sort_by: title.desc
-
-
   Walt Disney Animation:
     collection_mode: hide
     sort_title: !070_Walt Disney Animation
@@ -84,7 +78,6 @@ collections:
           - Walt Disney Productions
           - Silver Screen Partners II
         duration.gte: 60
-        collection.not: Pixar
       sort_by: title.desc
 
   
