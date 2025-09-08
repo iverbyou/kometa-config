@@ -2,18 +2,6 @@
 #                             TEST TEST TEST
 ##############################################################################
 
-    - default: studio
-      template_variables:
-        use_separator: false
-        collection_mode: hide
-        collection_order: alpha
-        include:
-        - A24
-        - DreamWorks Studios
-        - Illumination Entertainment
-        - Pixar
-        name_Illumination Entertainment: Illumination
-        
     - default: universe
       template_variables:
         use_separator: false
@@ -30,4 +18,5 @@
         - wizard
         - xmen
         #url_poster: https:raw.githubusercontent.com/iverbyou/kometa-config/main/assets/universe/<<key>>.jpg
+
 
