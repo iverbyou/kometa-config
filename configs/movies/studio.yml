@@ -8,6 +8,7 @@ collections:
     collection_mode: hide
     sort_title: "!070_A24"
     url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/configs/assets/studio/A24.jpg
+    summary: "A24 Films LLC, commonly referred to as A24, is an American independent entertainment company specializing in film and television production, as well as film distribution. They are best known for distributing and producing modern cult films."
 
 
   DreamWorks Animation:    
@@ -17,7 +18,8 @@ collections:
       sort_by: title.asc
     collection_mode: hide
     sort_title: "!070_DreamWorks Animation"
-    url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/configs/assets/studio/DreamWorks.jpg
+    url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/configs/assets/studio/DreamWorks2.jpg
+    summary: "DreamWorks Animation LLC (also simply known as DreamWorks) is an American animation studio that is a subsidiary of Universal Pictures, a division of Comcast through its wholly owned subsidiary NBCUniversal. It is based in Glendale, California and produces animated feature films, television programs and online virtual games. The studio has released feature films from the Shrek, Madagascar, Kung Fu Panda, Monsters Vs Aliens, How to Train Your Dragon, The Croods, Trolls, and The Boss Baby franchises."
 
 
   Illumination Entertainment:    
@@ -28,6 +30,7 @@ collections:
     collection_mode: hide
     sort_title: "!070_Illumination"
     url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/configs/assets/studio/Illumination.jpg
+    summary: "Illumination is an American animation studio founded by Chris Meledandri on January 17, 2007, and is a division of Universal Pictures; Meledandri produces the films, while Universal finances and distributes them. The studio is best known for creating the Despicable Me, The Secret Life of Pets, and Sing franchises; the adaptations of Dr. Seuss' books The Lorax and How the Grinch Stole Christmas!; and Nintendo video games, starting with The Super Mario Bros. Movie. The Minions, characters from the Despicable Me series, are the mascots of the studio."
 
 
   Pixar:    
@@ -39,6 +42,7 @@ collections:
     collection_mode: hide
     sort_title: "!070_Pixar"
     url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/configs/assets/studio/Pixar.jpg
+    summary: "Pixar Animation Studios, is an American animation studio based in Emeryville, California, known for its critically and commercially successful computer-animated feature films. Pixar is a subsidiary of Walt Disney Studios, a division of the Disney Entertainment segment of the Walt Disney Company."
 
 
   Walt Disney Animation:
@@ -52,6 +56,7 @@ collections:
     collection_mode: hide
     sort_title: "!070_Walt Disney Animation"
     url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/configs/assets/studio/Disney Animation.jpg
+    summary: "Walt Disney Animation Studios (WDAS), or Disney Animation, is an American animation studio that produces animated feature films and short films for the Walt Disney Company. Founded on October 16, 1923, by brothers Walt Disney and Roy O. Disney after the closure of Laugh-O-Gram Studio, it is the longest-running animation studio in the world. It is currently organized as a division of Walt Disney Studios and is headquartered at the Roy E. Disney Animation Building at the Walt Disney Studios lot in Burbank, California."
 
 
   Walt Disney Pictures:    
@@ -63,6 +68,7 @@ collections:
     collection_mode: hide
     sort_title: "!070_Walt Disney Pictures"
     url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/configs/assets/studio/Disney Pictures.jpg
+    summary: "Walt Disney Pictures is an American film production company and subsidiary of the Walt Disney Studios, a division of Disney Entertainment, which is owned by the Walt Disney Company. The studio is the flagship producer of live-action feature films and animation within the Walt Disney Studios unit and is based at the Walt Disney Studios in Burbank, California. Animated films produced by Walt Disney Animation Studios and Pixar Animation Studios are also released under the studio banner. Walt Disney Studios Motion Pictures distributes and markets the films produced by Walt Disney Pictures."
 
 
 
