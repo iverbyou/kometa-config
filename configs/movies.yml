@@ -13,6 +13,7 @@
         - Illumination Entertainment
         - Pixar
         name_Illumination Entertainment: Illumination
+        
     - default: universe
       template_variables:
         use_separator: false
@@ -22,7 +23,6 @@
         - avp
         - conjuring
         - dcu
-        - fast
         - marvel
         - mcu
         - star
@@ -30,3 +30,4 @@
         - wizard
         - xmen
         #url_poster: https:raw.githubusercontent.com/iverbyou/kometa-config/main/assets/universe/<<key>>.jpg
+
