@@ -70,13 +70,7 @@ collections:
     smart_filter:
       all:
         genre: Animation
-        studio:
-          - Disney Television Animation
-          - DisneyToon Studios
-          - Walt Disney Animation Studios
-          - Walt Disney Pictures
-          - Walt Disney Productions
-          - Silver Screen Partners II
+        studio: Disney Television Animation,DisneyToon Studios,Walt Disney Animation,Walt Disney Pictures,Walt Disney Productions,Silver Screen Partners II
         duration.gte: 60
         collection.not: Pixar
       sort_by: title.asc
