@@ -4,7 +4,7 @@ collections:
     smart_filter:
       all:
         studio: A24
-      sort_by: title.asc
+      sort_by: release.desc
     collection_mode: hide
     sort_title: "!070_A24"
     url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/configs/assets/studio/A24.jpg
