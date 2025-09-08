@@ -1,3 +1,29 @@
+######################################################
+#              Studio/Company Collections            #
+######################################################
+
+templates:
+
+  Company:
+    optional:
+      - with_genre
+      - without_genre
+      - without_keywords
+      - runtime_over
+      - runtime_under
+    tmdb_discover:
+      with_companies: <<tmdb>>
+      with_genres: <<with_genre>>
+      without_genres: <<without_genre>>
+      without_keywords: <<without_keywords>>
+      with_runtime.gte: <<runtime_over>>
+      with_runtime.lte: <<runtime_under>>
+      with_original_language: en
+      sort_by: <<sort>>
+    collection_mode: hide
+    collection_order: custom
+    sync_mode: sync
+
 collections:
 
   A24:    
@@ -10,6 +36,17 @@ collections:
     url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/configs/assets/studio/A24.jpg
     summary: "A24 Films LLC, commonly referred to as A24, is an American independent entertainment company specializing in film and television production, as well as film distribution. They are best known for distributing and producing modern cult films."
 
+
+  Blumhouse:    
+    smart_filter:
+      all:
+        studio: Blumhouse
+      sort_by: release.desc
+    collection_mode: hide
+    sort_title: "!070_Blumhouse"
+    url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/configs/assets/studio/Blumhouse.jpg
+    summary: "Blumhouse Productions, LLC, doing business as Blumhouse (/ˈblʌmhaʊs/; also known as BH Productions or simply BH), is an American independent film and television production company founded in 2000 by Jason Blum and Amy Israel. Most of the company's theatrically released films since 2014. Blumhouse is known mainly for producing horror films, such as the Paranormal Activity franchise, the Insidious franchise, Sinister, and The Purge franchise. Blumhouse's company model is to produce films on a small budget, give directors creative freedom, and release films widely through the studio system."
+    
 
   DreamWorks Animation:    
     smart_filter:
@@ -29,7 +66,7 @@ collections:
       sort_by: title.asc
     collection_mode: hide
     sort_title: "!070_Illumination"
-    url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/configs/assets/studio/Illumination.jpg
+    url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/configs/assets/studio/Illumination2.jpg
     summary: "Illumination is an American animation studio founded by Chris Meledandri on January 17, 2007, and is a division of Universal Pictures; Meledandri produces the films, while Universal finances and distributes them. The studio is best known for creating the Despicable Me, The Secret Life of Pets, and Sing franchises; the adaptations of Dr. Seuss' books The Lorax and How the Grinch Stole Christmas!; and Nintendo video games, starting with The Super Mario Bros. Movie. The Minions, characters from the Despicable Me series, are the mascots of the studio."
 
 
