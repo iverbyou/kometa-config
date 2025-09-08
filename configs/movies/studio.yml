@@ -8,6 +8,7 @@ collections:
       sort_by: title.asc
     collection_mode: hide
     sort_title: "!070_A24"
+    url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/configs/assets/studio/A24.jpg
 
 
   DreamWorks Animation:    
@@ -18,9 +19,10 @@ collections:
       sort_by: title.asc
     collection_mode: hide
     sort_title: "!070_DreamWorks Animation"
+    url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/configs/assets/studio/DreamWorks.jpg
 
 
-  Illumination:    
+  Illumination Entertainment:    
     smart_filter:
       all:
         studio: Illumination,Illumination Films
@@ -28,6 +30,7 @@ collections:
       sort_by: title.asc
     collection_mode: hide
     sort_title: "!070_Illumination"
+    url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/configs/assets/studio/Illumination.jpg
 
 
   Pixar:    
@@ -38,6 +41,7 @@ collections:
       sort_by: title.asc
     collection_mode: hide
     sort_title: "!070_Pixar"
+    url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/configs/assets/studio/Pixar.jpg
 
 
   Walt Disney Animation:
@@ -49,6 +53,7 @@ collections:
       sort_by: title.asc
     collection_mode: hide
     sort_title: "!070_Walt Disney Animation"
+    url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/configs/assets/studio/Walt Disney Animation.jpg
 
 
   Walt Disney Pictures:    
@@ -60,6 +65,7 @@ collections:
       sort_by: title.asc
     collection_mode: hide
     sort_title: "!070_Walt Disney Pictures"
+    url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/configs/assets/studio/Walt Disney Pictures.jpg
 
 
 
