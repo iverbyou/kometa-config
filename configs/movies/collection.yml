@@ -2,7 +2,7 @@ collections:
   Disney TV Movies:
     trakt_list: https://trakt.tv/users/moonprism/lists/dcom-wonderful-world-of-disney
     collection_mode: hide_items
-    collection_order: custom
+    collection_order: custom.asc
     sync_mode: sync
     sort_title: "!071_Disney TV"
     url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/configs/assets/collection/DCOM.jpg
