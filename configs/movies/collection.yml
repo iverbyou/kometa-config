@@ -1,12 +1,17 @@
 collections:
+
   Disney TV Movies:
-    trakt_list: https://trakt.tv/users/moonprism/lists/dcom-wonderful-world-of-disney
+    trakt_list:
+      - https://trakt.tv/users/megan_html/lists/disney-channel-original-movies-dcom-complete-list?sort=released,desc
+      - https://trakt.tv/users/megan_html/lists/disney-channel-premiere-films-complete-list?sort=released,desc
+      - https://trakt.tv/users/moonprism/lists/abc-freeform-original-movies?sort=released,asc
     collection_mode: hide_items
     collection_order: custom.asc
     sync_mode: sync
-    sort_title: "!071_Disney TV"
+    sort_title: "!072_DCOMs"
     url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/configs/assets/collection/DCOM.jpg
-    summary: "A collection of Disney TV movies including Disney Channel Premiere Films, Disney Channel Original Movies, and The Wonderful World of Disney"
+    summary: "A collection of Disney made for TV movies including Disney Channel Premiere Films, Disney Channel Original Movies, The Wonderful World of Disney, ABC Family Original Movies, and Freeform Originals."
+
 
   CHICAGO ✶:
     trakt_list: https://trakt.tv/users/moonprism/lists/chicago
@@ -16,3 +21,4 @@ collections:
     sort_title: "!090_Chicago"
     url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/configs/assets/collection/Chicago.jpg
     summary: "A collection of films set in or filmed in Chicago (and probably the surrounding suburbs)"
+
