@@ -7,16 +7,15 @@ collections:
 
   TV Movie DCOM:
     trakt_list:
-      - https://trakt.tv/users/megan_html/lists/disney-channel-original-movies-dcom-complete-list?sort=released,desc
-      - https://trakt.tv/users/megan_html/lists/disney-channel-premiere-films-complete-list?sort=released,desc
-      - https://trakt.tv/users/moonprism/lists/abc-freeform-original-movies?sort=released,asc
+      - https://trakt.tv/users/megan_html/lists/disney-channel-original-movies-dcom-complete-list
+      - https://trakt.tv/users/megan_html/lists/disney-channel-premiere-films-complete-list
     item_label: "TV Movie: Disney Channel"
     build_collection: false
     sync_mode: append
 
 
   TV Movie ABC:
-    trakt_list: https://trakt.tv/users/moonprism/lists/abc-freeform-original-movies?sort=released,asc
+    trakt_list: https://trakt.tv/users/moonprism/lists/disney-abc-freeform-original-movies
     item_label: "TV Movie: ABC"
     build_collection: false
     sync_mode: append
