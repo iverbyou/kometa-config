@@ -52,7 +52,6 @@ collections:
     smart_filter:
       all:
         studio: Pixar,Pixar Animation
-        duration.gte: 60
       sort_by: title.asc
     collection_mode: hide
     sort_title: "!070_Pixar"
@@ -85,13 +84,6 @@ collections:
     sort_title: "!070_Walt Disney Pictures"
     url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/configs/assets/studio/DisneyPictures.jpg
     summary: "Walt Disney Pictures is an American film production company and subsidiary of the Walt Disney Studios, a division of Disney Entertainment, which is owned by the Walt Disney Company. The studio is the flagship producer of live-action feature films and animation within the Walt Disney Studios unit and is based at the Walt Disney Studios in Burbank, California. Animated films produced by Walt Disney Animation Studios and Pixar Animation Studios are also released under the studio banner. Walt Disney Studios Motion Pictures distributes and markets the films produced by Walt Disney Pictures."
-
-
-
-
-
-
-
 
 
 
