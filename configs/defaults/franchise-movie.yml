@@ -65,8 +65,6 @@ dynamic_collections:
     remove_suffix: "Collection"
     template: collection
     custom_keys: false
-    url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/images/franchise/<<key>>.jpg
-    collection_order_91361: alpha #Halloween
     exclude: 
       - 148055    # Camp Rock
       - 870339    # The Accountant
@@ -102,6 +100,7 @@ dynamic_collections:
       535313: Godzilla (MonsterVerse)
       535790: Godzilla (Anime)
     template_variables:
+      collection_order_91361: alpha #Halloween
       movie:
         521226:     # A Quiet Place
           - 762441    # A Quiet Place: Day One
