@@ -11,7 +11,7 @@ collections:
       sort_by: release.desc
     collection_mode: hide
     sort_title: "!070_A24"
-    url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/configs/assets/studio/A24.jpg
+    url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/images/studio/A24.jpg
     summary: "A24 Films LLC, commonly referred to as A24, is an American independent entertainment company specializing in film and television production, as well as film distribution. They are best known for distributing and producing modern cult films."
 
 
@@ -22,7 +22,7 @@ collections:
       sort_by: release.desc
     collection_mode: hide
     sort_title: "!070_Blumhouse"
-    url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/configs/assets/studio/Blumhouse.jpg
+    url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/images/studio/Blumhouse.jpg
     summary: "Blumhouse Productions, LLC, doing business as Blumhouse (/ˈblʌmhaʊs/; also known as BH Productions or simply BH), is an American independent film and television production company founded in 2000 by Jason Blum and Amy Israel. Most of the company's theatrically released films since 2014. Blumhouse is known mainly for producing horror films, such as the Paranormal Activity franchise, the Insidious franchise, Sinister, and The Purge franchise. Blumhouse's company model is to produce films on a small budget, give directors creative freedom, and release films widely through the studio system."
     
 
@@ -33,7 +33,7 @@ collections:
       sort_by: title.asc
     collection_mode: hide
     sort_title: "!070_DreamWorks Animation"
-    url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/configs/assets/studio/DreamWorks.jpg
+    url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/images/studio/DreamWorks.jpg
     summary: "DreamWorks Animation LLC (also simply known as DreamWorks) is an American animation studio that is a subsidiary of Universal Pictures, a division of Comcast through its wholly owned subsidiary NBCUniversal. It is based in Glendale, California and produces animated feature films, television programs and online virtual games. The studio has released feature films from the Shrek, Madagascar, Kung Fu Panda, Monsters Vs Aliens, How to Train Your Dragon, The Croods, Trolls, and The Boss Baby franchises."
 
 
@@ -44,7 +44,7 @@ collections:
       sort_by: title.asc
     collection_mode: hide
     sort_title: "!070_Illumination"
-    url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/configs/assets/studio/Illumination.jpg
+    url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/images/studio/Illumination.jpg
     summary: "Illumination is an American animation studio founded by Chris Meledandri on January 17, 2007, and is a division of Universal Pictures; Meledandri produces the films, while Universal finances and distributes them. The studio is best known for creating the Despicable Me, The Secret Life of Pets, and Sing franchises; the adaptations of Dr. Seuss' books The Lorax and How the Grinch Stole Christmas!; and Nintendo video games, starting with The Super Mario Bros. Movie. The Minions, characters from the Despicable Me series, are the mascots of the studio."
 
 
@@ -55,7 +55,7 @@ collections:
       sort_by: title.asc
     collection_mode: hide
     sort_title: "!070_Pixar"
-    url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/configs/assets/studio/Pixar.jpg
+    url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/images/studio/Pixar.jpg
     summary: "Pixar Animation Studios, is an American animation studio known for its critically and commercially successful computer-animated feature films. Pixar started in 1979 as part of the Lucasfilm computer division. It was known as the Graphics Group before its spin-off as a corporation in 1986, with funding from Apple co-founder Steve Jobs, who became its majority shareholder. Disney announced its acquisition of Pixar in January 2006, and completed it in May 2006. Pixar is best known for its feature films, technologically powered by RenderMan, the company's own implementation of the industry-standard RenderMan Interface Specification image-rendering API. The studio's mascot is Luxo Jr., a desk lamp from the studio's 1986 short film of the same name."
 
 
@@ -69,7 +69,7 @@ collections:
       sort_by: title.asc
     collection_mode: hide
     sort_title: "!070_Walt Disney Animation"
-    url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/configs/assets/studio/DisneyAnimation.jpg
+    url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/images/studio/DisneyAnimation.jpg
     summary: "Walt Disney Animation Studios (WDAS), or Disney Animation, is an American animation studio that produces animated feature films and short films for the Walt Disney Company. Founded on October 16, 1923, by brothers Walt Disney and Roy O. Disney after the closure of Laugh-O-Gram Studio, it is the longest-running animation studio in the world. The studio's current production logo features a scene from its first synchronized sound cartoon, Steamboat Willie."
 
 
@@ -82,7 +82,7 @@ collections:
       sort_by: title.asc
     collection_mode: hide
     sort_title: "!070_Walt Disney Pictures"
-    url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/configs/assets/studio/DisneyPictures.jpg
+    url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/images/studio/DisneyPictures.jpg
     summary: "Walt Disney Pictures is an American film production company and subsidiary of the Walt Disney Studios, a division of Disney Entertainment, which is owned by the Walt Disney Company. The studio is the flagship producer of live-action feature films and animation within the Walt Disney Studios unit and is based at the Walt Disney Studios in Burbank, California. Animated films produced by Walt Disney Animation Studios and Pixar Animation Studios are also released under the studio banner. Walt Disney Studios Motion Pictures distributes and markets the films produced by Walt Disney Pictures."
 
 
