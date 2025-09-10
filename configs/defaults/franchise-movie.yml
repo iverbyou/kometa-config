@@ -66,10 +66,10 @@ dynamic_collections:
     template: collection
     custom_keys: false
     exclude: 
-      148055:     # Camp Rock
-      870339:     # The Accountant
-      201873:     # A Christmas Story
-      975201:     # A Simple Favor
+      - 148055    # Camp Rock
+      - 870339    # The Accountant
+      - 201873    # A Christmas Story
+      - 975201    # A Simple Favor
     addons:
       8091:       # Alien
         - 135416    # Prometheus
@@ -170,7 +170,12 @@ dynamic_collections:
         2467:       # Tomb Raider
           - 338970    # Tomb Raider (2018)
         10194:      # Toy Story
+          - 77887     # Hawaiian Vacation
+          - 82424     # Small Fry
           - 130925    # Partysaurus Rex
+          - 213121    # Toy Story of Terror
+          - 256835    # That Time Forgot
+          - 594530    # Lamp Life
         63043:      # TRON
           - 73362     # TRON: The Next Day
         748:        # X-Men
@@ -186,3 +191,4 @@ dynamic_collections:
         115570: Star Trek The Next Generation
         151: Star Trek The Original Series
         10: Star Wars Skywalker Saga
+      collection_order_91361: alpha
