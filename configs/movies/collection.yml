@@ -8,7 +8,7 @@ collections:
     collection_mode: hide_items
     sync_mode: sync
     sort_title: "!072_DCOMs"
-    url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/configs/assets/collection/DCOM25.jpg
+    url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/images/collection/DCOM25.jpg
     summary: "A collection of Disney made for TV movies including Disney Channel Premiere Films, Disney Channel Original Movies, The Wonderful World of Disney, ABC Family Original Movies, and Freeform Originals."
 
 
@@ -18,6 +18,6 @@ collections:
     collection_mode: hide
     sync_mode: sync
     sort_title: "!090_Chicago"
-    url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/configs/assets/collection/Chicago.jpg
+    url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/images/collection/Chicago.jpg
     summary: "A collection of films set in or filmed in Chicago (and probably the surrounding suburbs)"
 
