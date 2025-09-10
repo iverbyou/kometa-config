@@ -101,7 +101,6 @@ dynamic_collections:
       535790: Godzilla (Anime)
     template_variables:
       movie:
-        collection_order_91361: alpha #Halloween
         521226:     # A Quiet Place
           - 762441    # A Quiet Place: Day One
         105995:     # Anaconda
@@ -192,4 +191,6 @@ dynamic_collections:
         115570: Star Trek The Next Generation
         151: Star Trek The Original Series
         10: Star Wars Skywalker Saga
+    url_poster: https://raw.githubusercontent.com/iverbyou/kometa-config/main/images/franchise/<<key>>.jpg
+    collection_order_91361: alpha #Halloween
       
