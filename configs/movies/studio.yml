@@ -8,6 +8,7 @@ collections:
     smart_filter:
       all:
         studio: A24
+        edition.not: Coming Soon
       sort_by: release.desc
     collection_mode: hide
     sort_title: "!070_A24"
@@ -19,6 +20,7 @@ collections:
     smart_filter:
       all:
         studio: Blumhouse
+        edition.not: Coming Soon
       sort_by: release.desc
     collection_mode: hide
     sort_title: "!070_Blumhouse"
@@ -30,6 +32,7 @@ collections:
     smart_filter:
       all:
         studio: DreamWorks Animation,DreamWorks Animation Television
+        edition.not: Coming Soon
       sort_by: title.asc
     collection_mode: hide
     sort_title: "!070_DreamWorks Animation"
@@ -41,6 +44,7 @@ collections:
     smart_filter:
       all:
         studio: Illumination,Illumination Films
+        edition.not: Coming Soon
       sort_by: title.asc
     collection_mode: hide
     sort_title: "!070_Illumination"
@@ -52,6 +56,7 @@ collections:
     smart_filter:
       all:
         studio: Pixar,Pixar Animation
+        edition.not: Coming Soon
       sort_by: title.asc
     collection_mode: hide
     sort_title: "!070_Pixar"
@@ -66,6 +71,7 @@ collections:
         studio: Disney Television Animation,DisneyToon Studios,Walt Disney Animation,Walt Disney Pictures,Walt Disney Productions,Silver Screen Partners II
         duration.gte: 60
         title.isnot: "Mufasa: The Lion King"
+        edition.not: Coming Soon
       sort_by: title.asc
     collection_mode: hide
     sort_title: "!070_Walt Disney Animation"
@@ -79,6 +85,7 @@ collections:
         studio: Walt Disney Pictures,Walt Disney Productions
         genre.not: Animation
         title.isnot: "Jonas Brothers: The 3D Concert Experience"
+        edition.not: Coming Soon
       sort_by: title.asc
     collection_mode: hide
     sort_title: "!070_Walt Disney Pictures"
